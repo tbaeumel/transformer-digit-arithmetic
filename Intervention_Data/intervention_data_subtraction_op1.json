@@ -1,0 +1,3602 @@
+[
+    {
+        "base": "787 - 353 = ",
+        "one_shot_base": "588 - 157 = 431; 787 - 353 = ",
+        "base_result": 434,
+        "source": "878 - 353 = ",
+        "one_shot_source": "588 - 157 = 431; 878 - 353 = ",
+        "source_result": 525,
+        "result_variants": {
+            "bbb": 434,
+            "bbs": 435,
+            "bsb": 424,
+            "bss": 425,
+            "sbb": 534,
+            "sbs": 535,
+            "ssb": 524,
+            "sss": 525
+        }
+    },
+    {
+        "base": "766 - 613 = ",
+        "one_shot_base": "588 - 157 = 431; 766 - 613 = ",
+        "base_result": 153,
+        "source": "988 - 613 = ",
+        "one_shot_source": "588 - 157 = 431; 988 - 613 = ",
+        "source_result": 375,
+        "result_variants": {
+            "bbb": 153,
+            "bbs": 155,
+            "bsb": 173,
+            "bss": 175,
+            "sbb": 353,
+            "sbs": 355,
+            "ssb": 373,
+            "sss": 375
+        }
+    },
+    {
+        "base": "747 - 347 = ",
+        "one_shot_base": "588 - 157 = 431; 747 - 347 = ",
+        "base_result": 400,
+        "source": "599 - 347 = ",
+        "one_shot_source": "588 - 157 = 431; 599 - 347 = ",
+        "source_result": 252,
+        "result_variants": {
+            "bbb": 400,
+            "bbs": 402,
+            "bsb": 450,
+            "bss": 452,
+            "sbb": 200,
+            "sbs": 202,
+            "ssb": 250,
+            "sss": 252
+        }
+    },
+    {
+        "base": "868 - 125 = ",
+        "one_shot_base": "588 - 157 = 431; 868 - 125 = ",
+        "base_result": 743,
+        "source": "937 - 125 = ",
+        "one_shot_source": "588 - 157 = 431; 937 - 125 = ",
+        "source_result": 812,
+        "result_variants": {
+            "bbb": 743,
+            "bbs": 742,
+            "bsb": 713,
+            "bss": 712,
+            "sbb": 843,
+            "sbs": 842,
+            "ssb": 813,
+            "sss": 812
+        }
+    },
+    {
+        "base": "377 - 215 = ",
+        "one_shot_base": "588 - 157 = 431; 377 - 215 = ",
+        "base_result": 162,
+        "source": "798 - 215 = ",
+        "one_shot_source": "588 - 157 = 431; 798 - 215 = ",
+        "source_result": 583,
+        "result_variants": {
+            "bbb": 162,
+            "bbs": 163,
+            "bsb": 182,
+            "bss": 183,
+            "sbb": 562,
+            "sbs": 563,
+            "ssb": 582,
+            "sss": 583
+        }
+    },
+    {
+        "base": "598 - 283 = ",
+        "one_shot_base": "588 - 157 = 431; 598 - 283 = ",
+        "base_result": 315,
+        "source": "489 - 283 = ",
+        "one_shot_source": "588 - 157 = 431; 489 - 283 = ",
+        "source_result": 206,
+        "result_variants": {
+            "bbb": 315,
+            "bbs": 316,
+            "bsb": 305,
+            "bss": 306,
+            "sbb": 215,
+            "sbs": 216,
+            "ssb": 205,
+            "sss": 206
+        }
+    },
+    {
+        "base": "752 - 502 = ",
+        "one_shot_base": "588 - 157 = 431; 752 - 502 = ",
+        "base_result": 250,
+        "source": "909 - 502 = ",
+        "one_shot_source": "588 - 157 = 431; 909 - 502 = ",
+        "source_result": 407,
+        "result_variants": {
+            "bbb": 250,
+            "bbs": 257,
+            "bsb": 200,
+            "bss": 207,
+            "sbb": 450,
+            "sbs": 457,
+            "ssb": 400,
+            "sss": 407
+        }
+    },
+    {
+        "base": "368 - 101 = ",
+        "one_shot_base": "588 - 157 = 431; 368 - 101 = ",
+        "base_result": 267,
+        "source": "877 - 101 = ",
+        "one_shot_source": "588 - 157 = 431; 877 - 101 = ",
+        "source_result": 776,
+        "result_variants": {
+            "bbb": 267,
+            "bbs": 266,
+            "bsb": 277,
+            "bss": 276,
+            "sbb": 767,
+            "sbs": 766,
+            "ssb": 777,
+            "sss": 776
+        }
+    },
+    {
+        "base": "779 - 538 = ",
+        "one_shot_base": "588 - 157 = 431; 779 - 538 = ",
+        "base_result": 241,
+        "source": "838 - 538 = ",
+        "one_shot_source": "588 - 157 = 431; 838 - 538 = ",
+        "source_result": 300,
+        "result_variants": {
+            "bbb": 241,
+            "bbs": 240,
+            "bsb": 201,
+            "bss": 200,
+            "sbb": 341,
+            "sbs": 340,
+            "ssb": 301,
+            "sss": 300
+        }
+    },
+    {
+        "base": "856 - 343 = ",
+        "one_shot_base": "588 - 157 = 431; 856 - 343 = ",
+        "base_result": 513,
+        "source": "699 - 343 = ",
+        "one_shot_source": "588 - 157 = 431; 699 - 343 = ",
+        "source_result": 356,
+        "result_variants": {
+            "bbb": 513,
+            "bbs": 516,
+            "bsb": 553,
+            "bss": 556,
+            "sbb": 313,
+            "sbs": 316,
+            "ssb": 353,
+            "sss": 356
+        }
+    },
+    {
+        "base": "733 - 211 = ",
+        "one_shot_base": "588 - 157 = 431; 733 - 211 = ",
+        "base_result": 522,
+        "source": "696 - 211 = ",
+        "one_shot_source": "588 - 157 = 431; 696 - 211 = ",
+        "source_result": 485,
+        "result_variants": {
+            "bbb": 522,
+            "bbs": 525,
+            "bsb": 582,
+            "bss": 585,
+            "sbb": 422,
+            "sbs": 425,
+            "ssb": 482,
+            "sss": 485
+        }
+    },
+    {
+        "base": "528 - 118 = ",
+        "one_shot_base": "588 - 157 = 431; 528 - 118 = ",
+        "base_result": 410,
+        "source": "639 - 118 = ",
+        "one_shot_source": "588 - 157 = 431; 639 - 118 = ",
+        "source_result": 521,
+        "result_variants": {
+            "bbb": 410,
+            "bbs": 411,
+            "bsb": 420,
+            "bss": 421,
+            "sbb": 510,
+            "sbs": 511,
+            "ssb": 520,
+            "sss": 521
+        }
+    },
+    {
+        "base": "877 - 376 = ",
+        "one_shot_base": "588 - 157 = 431; 877 - 376 = ",
+        "base_result": 501,
+        "source": "589 - 376 = ",
+        "one_shot_source": "588 - 157 = 431; 589 - 376 = ",
+        "source_result": 213,
+        "result_variants": {
+            "bbb": 501,
+            "bbs": 503,
+            "bsb": 511,
+            "bss": 513,
+            "sbb": 201,
+            "sbs": 203,
+            "ssb": 211,
+            "sss": 213
+        }
+    },
+    {
+        "base": "833 - 513 = ",
+        "one_shot_base": "588 - 157 = 431; 833 - 513 = ",
+        "base_result": 320,
+        "source": "725 - 513 = ",
+        "one_shot_source": "588 - 157 = 431; 725 - 513 = ",
+        "source_result": 212,
+        "result_variants": {
+            "bbb": 320,
+            "bbs": 322,
+            "bsb": 310,
+            "bss": 312,
+            "sbb": 220,
+            "sbs": 222,
+            "ssb": 210,
+            "sss": 212
+        }
+    },
+    {
+        "base": "962 - 412 = ",
+        "one_shot_base": "588 - 157 = 431; 962 - 412 = ",
+        "base_result": 550,
+        "source": "658 - 412 = ",
+        "one_shot_source": "588 - 157 = 431; 658 - 412 = ",
+        "source_result": 246,
+        "result_variants": {
+            "bbb": 550,
+            "bbs": 556,
+            "bsb": 540,
+            "bss": 546,
+            "sbb": 250,
+            "sbs": 256,
+            "ssb": 240,
+            "sss": 246
+        }
+    },
+    {
+        "base": "373 - 223 = ",
+        "one_shot_base": "588 - 157 = 431; 373 - 223 = ",
+        "base_result": 150,
+        "source": "894 - 223 = ",
+        "one_shot_source": "588 - 157 = 431; 894 - 223 = ",
+        "source_result": 671,
+        "result_variants": {
+            "bbb": 150,
+            "bbs": 151,
+            "bsb": 170,
+            "bss": 171,
+            "sbb": 650,
+            "sbs": 651,
+            "ssb": 670,
+            "sss": 671
+        }
+    },
+    {
+        "base": "955 - 423 = ",
+        "one_shot_base": "588 - 157 = 431; 955 - 423 = ",
+        "base_result": 532,
+        "source": "729 - 423 = ",
+        "one_shot_source": "588 - 157 = 431; 729 - 423 = ",
+        "source_result": 306,
+        "result_variants": {
+            "bbb": 532,
+            "bbs": 536,
+            "bsb": 502,
+            "bss": 506,
+            "sbb": 332,
+            "sbs": 336,
+            "ssb": 302,
+            "sss": 306
+        }
+    },
+    {
+        "base": "493 - 323 = ",
+        "one_shot_base": "588 - 157 = 431; 493 - 323 = ",
+        "base_result": 170,
+        "source": "668 - 323 = ",
+        "one_shot_source": "588 - 157 = 431; 668 - 323 = ",
+        "source_result": 345,
+        "result_variants": {
+            "bbb": 170,
+            "bbs": 175,
+            "bsb": 140,
+            "bss": 145,
+            "sbb": 370,
+            "sbs": 375,
+            "ssb": 340,
+            "sss": 345
+        }
+    },
+    {
+        "base": "986 - 303 = ",
+        "one_shot_base": "588 - 157 = 431; 986 - 303 = ",
+        "base_result": 683,
+        "source": "565 - 303 = ",
+        "one_shot_source": "588 - 157 = 431; 565 - 303 = ",
+        "source_result": 262,
+        "result_variants": {
+            "bbb": 683,
+            "bbs": 682,
+            "bsb": 663,
+            "bss": 662,
+            "sbb": 283,
+            "sbs": 282,
+            "ssb": 263,
+            "sss": 262
+        }
+    },
+    {
+        "base": "985 - 660 = ",
+        "one_shot_base": "588 - 157 = 431; 985 - 660 = ",
+        "base_result": 325,
+        "source": "760 - 660 = ",
+        "one_shot_source": "588 - 157 = 431; 760 - 660 = ",
+        "source_result": 100,
+        "result_variants": {
+            "bbb": 325,
+            "bbs": 320,
+            "bsb": 305,
+            "bss": 300,
+            "sbb": 125,
+            "sbs": 120,
+            "ssb": 105,
+            "sss": 100
+        }
+    },
+    {
+        "base": "359 - 251 = ",
+        "one_shot_base": "588 - 157 = 431; 359 - 251 = ",
+        "base_result": 108,
+        "source": "774 - 251 = ",
+        "one_shot_source": "588 - 157 = 431; 774 - 251 = ",
+        "source_result": 523,
+        "result_variants": {
+            "bbb": 108,
+            "bbs": 103,
+            "bsb": 128,
+            "bss": 123,
+            "sbb": 508,
+            "sbs": 503,
+            "ssb": 528,
+            "sss": 523
+        }
+    },
+    {
+        "base": "949 - 640 = ",
+        "one_shot_base": "588 - 157 = 431; 949 - 640 = ",
+        "base_result": 309,
+        "source": "875 - 640 = ",
+        "one_shot_source": "588 - 157 = 431; 875 - 640 = ",
+        "source_result": 235,
+        "result_variants": {
+            "bbb": 309,
+            "bbs": 305,
+            "bsb": 339,
+            "bss": 335,
+            "sbb": 209,
+            "sbs": 205,
+            "ssb": 239,
+            "sss": 235
+        }
+    },
+    {
+        "base": "866 - 351 = ",
+        "one_shot_base": "588 - 157 = 431; 866 - 351 = ",
+        "base_result": 515,
+        "source": "459 - 351 = ",
+        "one_shot_source": "588 - 157 = 431; 459 - 351 = ",
+        "source_result": 108,
+        "result_variants": {
+            "bbb": 515,
+            "bbs": 518,
+            "bsb": 505,
+            "bss": 508,
+            "sbb": 115,
+            "sbs": 118,
+            "ssb": 105,
+            "sss": 108
+        }
+    },
+    {
+        "base": "696 - 565 = ",
+        "one_shot_base": "588 - 157 = 431; 696 - 565 = ",
+        "base_result": 131,
+        "source": "988 - 565 = ",
+        "one_shot_source": "588 - 157 = 431; 988 - 565 = ",
+        "source_result": 423,
+        "result_variants": {
+            "bbb": 131,
+            "bbs": 133,
+            "bsb": 121,
+            "bss": 123,
+            "sbb": 431,
+            "sbs": 433,
+            "ssb": 421,
+            "sss": 423
+        }
+    },
+    {
+        "base": "837 - 714 = ",
+        "one_shot_base": "588 - 157 = 431; 837 - 714 = ",
+        "base_result": 123,
+        "source": "989 - 714 = ",
+        "one_shot_source": "588 - 157 = 431; 989 - 714 = ",
+        "source_result": 275,
+        "result_variants": {
+            "bbb": 123,
+            "bbs": 125,
+            "bsb": 173,
+            "bss": 175,
+            "sbb": 223,
+            "sbs": 225,
+            "ssb": 273,
+            "sss": 275
+        }
+    },
+    {
+        "base": "685 - 300 = ",
+        "one_shot_base": "588 - 157 = 431; 685 - 300 = ",
+        "base_result": 385,
+        "source": "957 - 300 = ",
+        "one_shot_source": "588 - 157 = 431; 957 - 300 = ",
+        "source_result": 657,
+        "result_variants": {
+            "bbb": 385,
+            "bbs": 387,
+            "bsb": 355,
+            "bss": 357,
+            "sbb": 685,
+            "sbs": 687,
+            "ssb": 655,
+            "sss": 657
+        }
+    },
+    {
+        "base": "938 - 206 = ",
+        "one_shot_base": "588 - 157 = 431; 938 - 206 = ",
+        "base_result": 732,
+        "source": "789 - 206 = ",
+        "one_shot_source": "588 - 157 = 431; 789 - 206 = ",
+        "source_result": 583,
+        "result_variants": {
+            "bbb": 732,
+            "bbs": 733,
+            "bsb": 782,
+            "bss": 783,
+            "sbb": 532,
+            "sbs": 533,
+            "ssb": 582,
+            "sss": 583
+        }
+    },
+    {
+        "base": "994 - 122 = ",
+        "one_shot_base": "588 - 157 = 431; 994 - 122 = ",
+        "base_result": 872,
+        "source": "666 - 122 = ",
+        "one_shot_source": "588 - 157 = 431; 666 - 122 = ",
+        "source_result": 544,
+        "result_variants": {
+            "bbb": 872,
+            "bbs": 874,
+            "bsb": 842,
+            "bss": 844,
+            "sbb": 572,
+            "sbs": 574,
+            "ssb": 542,
+            "sss": 544
+        }
+    },
+    {
+        "base": "698 - 146 = ",
+        "one_shot_base": "588 - 157 = 431; 698 - 146 = ",
+        "base_result": 552,
+        "source": "786 - 146 = ",
+        "one_shot_source": "588 - 157 = 431; 786 - 146 = ",
+        "source_result": 640,
+        "result_variants": {
+            "bbb": 552,
+            "bbs": 550,
+            "bsb": 542,
+            "bss": 540,
+            "sbb": 652,
+            "sbs": 650,
+            "ssb": 642,
+            "sss": 640
+        }
+    },
+    {
+        "base": "889 - 315 = ",
+        "one_shot_base": "588 - 157 = 431; 889 - 315 = ",
+        "base_result": 574,
+        "source": "926 - 315 = ",
+        "one_shot_source": "588 - 157 = 431; 926 - 315 = ",
+        "source_result": 611,
+        "result_variants": {
+            "bbb": 574,
+            "bbs": 571,
+            "bsb": 514,
+            "bss": 511,
+            "sbb": 674,
+            "sbs": 671,
+            "ssb": 614,
+            "sss": 611
+        }
+    },
+    {
+        "base": "668 - 140 = ",
+        "one_shot_base": "588 - 157 = 431; 668 - 140 = ",
+        "base_result": 528,
+        "source": "491 - 140 = ",
+        "one_shot_source": "588 - 157 = 431; 491 - 140 = ",
+        "source_result": 351,
+        "result_variants": {
+            "bbb": 528,
+            "bbs": 521,
+            "bsb": 558,
+            "bss": 551,
+            "sbb": 328,
+            "sbs": 321,
+            "ssb": 358,
+            "sss": 351
+        }
+    },
+    {
+        "base": "868 - 334 = ",
+        "one_shot_base": "588 - 157 = 431; 868 - 334 = ",
+        "base_result": 534,
+        "source": "676 - 334 = ",
+        "one_shot_source": "588 - 157 = 431; 676 - 334 = ",
+        "source_result": 342,
+        "result_variants": {
+            "bbb": 534,
+            "bbs": 532,
+            "bsb": 544,
+            "bss": 542,
+            "sbb": 334,
+            "sbs": 332,
+            "ssb": 344,
+            "sss": 342
+        }
+    },
+    {
+        "base": "969 - 456 = ",
+        "one_shot_base": "588 - 157 = 431; 969 - 456 = ",
+        "base_result": 513,
+        "source": "787 - 456 = ",
+        "one_shot_source": "588 - 157 = 431; 787 - 456 = ",
+        "source_result": 331,
+        "result_variants": {
+            "bbb": 513,
+            "bbs": 511,
+            "bsb": 533,
+            "bss": 531,
+            "sbb": 313,
+            "sbs": 311,
+            "ssb": 333,
+            "sss": 331
+        }
+    },
+    {
+        "base": "592 - 280 = ",
+        "one_shot_base": "588 - 157 = 431; 592 - 280 = ",
+        "base_result": 312,
+        "source": "685 - 280 = ",
+        "one_shot_source": "588 - 157 = 431; 685 - 280 = ",
+        "source_result": 405,
+        "result_variants": {
+            "bbb": 312,
+            "bbs": 315,
+            "bsb": 302,
+            "bss": 305,
+            "sbb": 412,
+            "sbs": 415,
+            "ssb": 402,
+            "sss": 405
+        }
+    },
+    {
+        "base": "788 - 128 = ",
+        "one_shot_base": "588 - 157 = 431; 788 - 128 = ",
+        "base_result": 660,
+        "source": "439 - 128 = ",
+        "one_shot_source": "588 - 157 = 431; 439 - 128 = ",
+        "source_result": 311,
+        "result_variants": {
+            "bbb": 660,
+            "bbs": 661,
+            "bsb": 610,
+            "bss": 611,
+            "sbb": 360,
+            "sbs": 361,
+            "ssb": 310,
+            "sss": 311
+        }
+    },
+    {
+        "base": "587 - 264 = ",
+        "one_shot_base": "588 - 157 = 431; 587 - 264 = ",
+        "base_result": 323,
+        "source": "666 - 264 = ",
+        "one_shot_source": "588 - 157 = 431; 666 - 264 = ",
+        "source_result": 402,
+        "result_variants": {
+            "bbb": 323,
+            "bbs": 322,
+            "bsb": 303,
+            "bss": 302,
+            "sbb": 423,
+            "sbs": 422,
+            "ssb": 403,
+            "sss": 402
+        }
+    },
+    {
+        "base": "789 - 353 = ",
+        "one_shot_base": "588 - 157 = 431; 789 - 353 = ",
+        "base_result": 436,
+        "source": "968 - 353 = ",
+        "one_shot_source": "588 - 157 = 431; 968 - 353 = ",
+        "source_result": 615,
+        "result_variants": {
+            "bbb": 436,
+            "bbs": 435,
+            "bsb": 416,
+            "bss": 415,
+            "sbb": 636,
+            "sbs": 635,
+            "ssb": 616,
+            "sss": 615
+        }
+    },
+    {
+        "base": "545 - 334 = ",
+        "one_shot_base": "588 - 157 = 431; 545 - 334 = ",
+        "base_result": 211,
+        "source": "478 - 334 = ",
+        "one_shot_source": "588 - 157 = 431; 478 - 334 = ",
+        "source_result": 144,
+        "result_variants": {
+            "bbb": 211,
+            "bbs": 214,
+            "bsb": 241,
+            "bss": 244,
+            "sbb": 111,
+            "sbs": 114,
+            "ssb": 141,
+            "sss": 144
+        }
+    },
+    {
+        "base": "478 - 131 = ",
+        "one_shot_base": "588 - 157 = 431; 478 - 131 = ",
+        "base_result": 347,
+        "source": "942 - 131 = ",
+        "one_shot_source": "588 - 157 = 431; 942 - 131 = ",
+        "source_result": 811,
+        "result_variants": {
+            "bbb": 347,
+            "bbs": 341,
+            "bsb": 317,
+            "bss": 311,
+            "sbb": 847,
+            "sbs": 841,
+            "ssb": 817,
+            "sss": 811
+        }
+    },
+    {
+        "base": "897 - 156 = ",
+        "one_shot_base": "588 - 157 = 431; 897 - 156 = ",
+        "base_result": 741,
+        "source": "458 - 156 = ",
+        "one_shot_source": "588 - 157 = 431; 458 - 156 = ",
+        "source_result": 302,
+        "result_variants": {
+            "bbb": 741,
+            "bbs": 742,
+            "bsb": 701,
+            "bss": 702,
+            "sbb": 341,
+            "sbs": 342,
+            "ssb": 301,
+            "sss": 302
+        }
+    },
+    {
+        "base": "777 - 367 = ",
+        "one_shot_base": "588 - 157 = 431; 777 - 367 = ",
+        "base_result": 410,
+        "source": "488 - 367 = ",
+        "one_shot_source": "588 - 157 = 431; 488 - 367 = ",
+        "source_result": 121,
+        "result_variants": {
+            "bbb": 410,
+            "bbs": 411,
+            "bsb": 420,
+            "bss": 421,
+            "sbb": 110,
+            "sbs": 111,
+            "ssb": 120,
+            "sss": 121
+        }
+    },
+    {
+        "base": "474 - 350 = ",
+        "one_shot_base": "588 - 157 = 431; 474 - 350 = ",
+        "base_result": 124,
+        "source": "891 - 350 = ",
+        "one_shot_source": "588 - 157 = 431; 891 - 350 = ",
+        "source_result": 541,
+        "result_variants": {
+            "bbb": 124,
+            "bbs": 121,
+            "bsb": 144,
+            "bss": 141,
+            "sbb": 524,
+            "sbs": 521,
+            "ssb": 544,
+            "sss": 541
+        }
+    },
+    {
+        "base": "535 - 402 = ",
+        "one_shot_base": "588 - 157 = 431; 535 - 402 = ",
+        "base_result": 133,
+        "source": "776 - 402 = ",
+        "one_shot_source": "588 - 157 = 431; 776 - 402 = ",
+        "source_result": 374,
+        "result_variants": {
+            "bbb": 133,
+            "bbs": 134,
+            "bsb": 173,
+            "bss": 174,
+            "sbb": 333,
+            "sbs": 334,
+            "ssb": 373,
+            "sss": 374
+        }
+    },
+    {
+        "base": "358 - 100 = ",
+        "one_shot_base": "588 - 157 = 431; 358 - 100 = ",
+        "base_result": 258,
+        "source": "835 - 100 = ",
+        "one_shot_source": "588 - 157 = 431; 835 - 100 = ",
+        "source_result": 735,
+        "result_variants": {
+            "bbb": 258,
+            "bbs": 255,
+            "bsb": 238,
+            "bss": 235,
+            "sbb": 758,
+            "sbs": 755,
+            "ssb": 738,
+            "sss": 735
+        }
+    },
+    {
+        "base": "474 - 250 = ",
+        "one_shot_base": "588 - 157 = 431; 474 - 250 = ",
+        "base_result": 224,
+        "source": "382 - 250 = ",
+        "one_shot_source": "588 - 157 = 431; 382 - 250 = ",
+        "source_result": 132,
+        "result_variants": {
+            "bbb": 224,
+            "bbs": 222,
+            "bsb": 234,
+            "bss": 232,
+            "sbb": 124,
+            "sbs": 122,
+            "ssb": 134,
+            "sss": 132
+        }
+    },
+    {
+        "base": "598 - 281 = ",
+        "one_shot_base": "588 - 157 = 431; 598 - 281 = ",
+        "base_result": 317,
+        "source": "881 - 281 = ",
+        "one_shot_source": "588 - 157 = 431; 881 - 281 = ",
+        "source_result": 600,
+        "result_variants": {
+            "bbb": 317,
+            "bbs": 310,
+            "bsb": 307,
+            "bss": 300,
+            "sbb": 617,
+            "sbs": 610,
+            "ssb": 607,
+            "sss": 600
+        }
+    },
+    {
+        "base": "767 - 342 = ",
+        "one_shot_base": "588 - 157 = 431; 767 - 342 = ",
+        "base_result": 425,
+        "source": "543 - 342 = ",
+        "one_shot_source": "588 - 157 = 431; 543 - 342 = ",
+        "source_result": 201,
+        "result_variants": {
+            "bbb": 425,
+            "bbs": 421,
+            "bsb": 405,
+            "bss": 401,
+            "sbb": 225,
+            "sbs": 221,
+            "ssb": 205,
+            "sss": 201
+        }
+    },
+    {
+        "base": "369 - 207 = ",
+        "one_shot_base": "588 - 157 = 431; 369 - 207 = ",
+        "base_result": 162,
+        "source": "498 - 207 = ",
+        "one_shot_source": "588 - 157 = 431; 498 - 207 = ",
+        "source_result": 291,
+        "result_variants": {
+            "bbb": 162,
+            "bbs": 161,
+            "bsb": 192,
+            "bss": 191,
+            "sbb": 262,
+            "sbs": 261,
+            "ssb": 292,
+            "sss": 291
+        }
+    },
+    {
+        "base": "986 - 104 = ",
+        "one_shot_base": "588 - 157 = 431; 986 - 104 = ",
+        "base_result": 882,
+        "source": "215 - 104 = ",
+        "one_shot_source": "588 - 157 = 431; 215 - 104 = ",
+        "source_result": 111,
+        "result_variants": {
+            "bbb": 882,
+            "bbs": 881,
+            "bsb": 812,
+            "bss": 811,
+            "sbb": 182,
+            "sbs": 181,
+            "ssb": 112,
+            "sss": 111
+        }
+    },
+    {
+        "base": "575 - 310 = ",
+        "one_shot_base": "588 - 157 = 431; 575 - 310 = ",
+        "base_result": 265,
+        "source": "964 - 310 = ",
+        "one_shot_source": "588 - 157 = 431; 964 - 310 = ",
+        "source_result": 654,
+        "result_variants": {
+            "bbb": 265,
+            "bbs": 264,
+            "bsb": 255,
+            "bss": 254,
+            "sbb": 665,
+            "sbs": 664,
+            "ssb": 655,
+            "sss": 654
+        }
+    },
+    {
+        "base": "564 - 214 = ",
+        "one_shot_base": "588 - 157 = 431; 564 - 214 = ",
+        "base_result": 350,
+        "source": "718 - 214 = ",
+        "one_shot_source": "588 - 157 = 431; 718 - 214 = ",
+        "source_result": 504,
+        "result_variants": {
+            "bbb": 350,
+            "bbs": 354,
+            "bsb": 300,
+            "bss": 304,
+            "sbb": 550,
+            "sbs": 554,
+            "ssb": 500,
+            "sss": 504
+        }
+    },
+    {
+        "base": "874 - 712 = ",
+        "one_shot_base": "588 - 157 = 431; 874 - 712 = ",
+        "base_result": 162,
+        "source": "942 - 712 = ",
+        "one_shot_source": "588 - 157 = 431; 942 - 712 = ",
+        "source_result": 230,
+        "result_variants": {
+            "bbb": 162,
+            "bbs": 160,
+            "bsb": 132,
+            "bss": 130,
+            "sbb": 262,
+            "sbs": 260,
+            "ssb": 232,
+            "sss": 230
+        }
+    },
+    {
+        "base": "887 - 541 = ",
+        "one_shot_base": "588 - 157 = 431; 887 - 541 = ",
+        "base_result": 346,
+        "source": "792 - 541 = ",
+        "one_shot_source": "588 - 157 = 431; 792 - 541 = ",
+        "source_result": 251,
+        "result_variants": {
+            "bbb": 346,
+            "bbs": 341,
+            "bsb": 356,
+            "bss": 351,
+            "sbb": 246,
+            "sbs": 241,
+            "ssb": 256,
+            "sss": 251
+        }
+    },
+    {
+        "base": "744 - 340 = ",
+        "one_shot_base": "588 - 157 = 431; 744 - 340 = ",
+        "base_result": 404,
+        "source": "990 - 340 = ",
+        "one_shot_source": "588 - 157 = 431; 990 - 340 = ",
+        "source_result": 650,
+        "result_variants": {
+            "bbb": 404,
+            "bbs": 400,
+            "bsb": 454,
+            "bss": 450,
+            "sbb": 604,
+            "sbs": 600,
+            "ssb": 654,
+            "sss": 650
+        }
+    },
+    {
+        "base": "515 - 215 = ",
+        "one_shot_base": "588 - 157 = 431; 515 - 215 = ",
+        "base_result": 300,
+        "source": "677 - 215 = ",
+        "one_shot_source": "588 - 157 = 431; 677 - 215 = ",
+        "source_result": 462,
+        "result_variants": {
+            "bbb": 300,
+            "bbs": 302,
+            "bsb": 360,
+            "bss": 362,
+            "sbb": 400,
+            "sbs": 402,
+            "ssb": 460,
+            "sss": 462
+        }
+    },
+    {
+        "base": "888 - 717 = ",
+        "one_shot_base": "588 - 157 = 431; 888 - 717 = ",
+        "base_result": 171,
+        "source": "979 - 717 = ",
+        "one_shot_source": "588 - 157 = 431; 979 - 717 = ",
+        "source_result": 262,
+        "result_variants": {
+            "bbb": 171,
+            "bbs": 172,
+            "bsb": 161,
+            "bss": 162,
+            "sbb": 271,
+            "sbs": 272,
+            "ssb": 261,
+            "sss": 262
+        }
+    },
+    {
+        "base": "594 - 274 = ",
+        "one_shot_base": "588 - 157 = 431; 594 - 274 = ",
+        "base_result": 320,
+        "source": "685 - 274 = ",
+        "one_shot_source": "588 - 157 = 431; 685 - 274 = ",
+        "source_result": 411,
+        "result_variants": {
+            "bbb": 320,
+            "bbs": 321,
+            "bsb": 310,
+            "bss": 311,
+            "sbb": 420,
+            "sbs": 421,
+            "ssb": 410,
+            "sss": 411
+        }
+    },
+    {
+        "base": "643 - 423 = ",
+        "one_shot_base": "588 - 157 = 431; 643 - 423 = ",
+        "base_result": 220,
+        "source": "856 - 423 = ",
+        "one_shot_source": "588 - 157 = 431; 856 - 423 = ",
+        "source_result": 433,
+        "result_variants": {
+            "bbb": 220,
+            "bbs": 223,
+            "bsb": 230,
+            "bss": 233,
+            "sbb": 420,
+            "sbs": 423,
+            "ssb": 430,
+            "sss": 433
+        }
+    },
+    {
+        "base": "862 - 462 = ",
+        "one_shot_base": "588 - 157 = 431; 862 - 462 = ",
+        "base_result": 400,
+        "source": "686 - 462 = ",
+        "one_shot_source": "588 - 157 = 431; 686 - 462 = ",
+        "source_result": 224,
+        "result_variants": {
+            "bbb": 400,
+            "bbs": 404,
+            "bsb": 420,
+            "bss": 424,
+            "sbb": 200,
+            "sbs": 204,
+            "ssb": 220,
+            "sss": 224
+        }
+    },
+    {
+        "base": "496 - 351 = ",
+        "one_shot_base": "588 - 157 = 431; 496 - 351 = ",
+        "base_result": 145,
+        "source": "975 - 351 = ",
+        "one_shot_source": "588 - 157 = 431; 975 - 351 = ",
+        "source_result": 624,
+        "result_variants": {
+            "bbb": 145,
+            "bbs": 144,
+            "bsb": 125,
+            "bss": 124,
+            "sbb": 645,
+            "sbs": 644,
+            "ssb": 625,
+            "sss": 624
+        }
+    },
+    {
+        "base": "719 - 402 = ",
+        "one_shot_base": "588 - 157 = 431; 719 - 402 = ",
+        "base_result": 317,
+        "source": "896 - 402 = ",
+        "one_shot_source": "588 - 157 = 431; 896 - 402 = ",
+        "source_result": 494,
+        "result_variants": {
+            "bbb": 317,
+            "bbs": 314,
+            "bsb": 397,
+            "bss": 394,
+            "sbb": 417,
+            "sbs": 414,
+            "ssb": 497,
+            "sss": 494
+        }
+    },
+    {
+        "base": "496 - 154 = ",
+        "one_shot_base": "588 - 157 = 431; 496 - 154 = ",
+        "base_result": 342,
+        "source": "377 - 154 = ",
+        "one_shot_source": "588 - 157 = 431; 377 - 154 = ",
+        "source_result": 223,
+        "result_variants": {
+            "bbb": 342,
+            "bbs": 343,
+            "bsb": 322,
+            "bss": 323,
+            "sbb": 242,
+            "sbs": 243,
+            "ssb": 222,
+            "sss": 223
+        }
+    },
+    {
+        "base": "848 - 122 = ",
+        "one_shot_base": "588 - 157 = 431; 848 - 122 = ",
+        "base_result": 726,
+        "source": "289 - 122 = ",
+        "one_shot_source": "588 - 157 = 431; 289 - 122 = ",
+        "source_result": 167,
+        "result_variants": {
+            "bbb": 726,
+            "bbs": 727,
+            "bsb": 766,
+            "bss": 767,
+            "sbb": 126,
+            "sbs": 127,
+            "ssb": 166,
+            "sss": 167
+        }
+    },
+    {
+        "base": "687 - 363 = ",
+        "one_shot_base": "588 - 157 = 431; 687 - 363 = ",
+        "base_result": 324,
+        "source": "598 - 363 = ",
+        "one_shot_source": "588 - 157 = 431; 598 - 363 = ",
+        "source_result": 235,
+        "result_variants": {
+            "bbb": 324,
+            "bbs": 325,
+            "bsb": 334,
+            "bss": 335,
+            "sbb": 224,
+            "sbs": 225,
+            "ssb": 234,
+            "sss": 235
+        }
+    },
+    {
+        "base": "594 - 403 = ",
+        "one_shot_base": "588 - 157 = 431; 594 - 403 = ",
+        "base_result": 191,
+        "source": "969 - 403 = ",
+        "one_shot_source": "588 - 157 = 431; 969 - 403 = ",
+        "source_result": 566,
+        "result_variants": {
+            "bbb": 191,
+            "bbs": 196,
+            "bsb": 161,
+            "bss": 166,
+            "sbb": 591,
+            "sbs": 596,
+            "ssb": 561,
+            "sss": 566
+        }
+    },
+    {
+        "base": "586 - 251 = ",
+        "one_shot_base": "588 - 157 = 431; 586 - 251 = ",
+        "base_result": 335,
+        "source": "954 - 251 = ",
+        "one_shot_source": "588 - 157 = 431; 954 - 251 = ",
+        "source_result": 703,
+        "result_variants": {
+            "bbb": 335,
+            "bbs": 333,
+            "bsb": 305,
+            "bss": 303,
+            "sbb": 735,
+            "sbs": 733,
+            "ssb": 705,
+            "sss": 703
+        }
+    },
+    {
+        "base": "755 - 352 = ",
+        "one_shot_base": "588 - 157 = 431; 755 - 352 = ",
+        "base_result": 403,
+        "source": "588 - 352 = ",
+        "one_shot_source": "588 - 157 = 431; 588 - 352 = ",
+        "source_result": 236,
+        "result_variants": {
+            "bbb": 403,
+            "bbs": 406,
+            "bsb": 433,
+            "bss": 436,
+            "sbb": 203,
+            "sbs": 206,
+            "ssb": 233,
+            "sss": 236
+        }
+    },
+    {
+        "base": "536 - 305 = ",
+        "one_shot_base": "588 - 157 = 431; 536 - 305 = ",
+        "base_result": 231,
+        "source": "805 - 305 = ",
+        "one_shot_source": "588 - 157 = 431; 805 - 305 = ",
+        "source_result": 500,
+        "result_variants": {
+            "bbb": 231,
+            "bbs": 230,
+            "bsb": 201,
+            "bss": 200,
+            "sbb": 531,
+            "sbs": 530,
+            "ssb": 501,
+            "sss": 500
+        }
+    },
+    {
+        "base": "629 - 103 = ",
+        "one_shot_base": "588 - 157 = 431; 629 - 103 = ",
+        "base_result": 526,
+        "source": "776 - 103 = ",
+        "one_shot_source": "588 - 157 = 431; 776 - 103 = ",
+        "source_result": 673,
+        "result_variants": {
+            "bbb": 526,
+            "bbs": 523,
+            "bsb": 576,
+            "bss": 573,
+            "sbb": 626,
+            "sbs": 623,
+            "ssb": 676,
+            "sss": 673
+        }
+    },
+    {
+        "base": "879 - 320 = ",
+        "one_shot_base": "588 - 157 = 431; 879 - 320 = ",
+        "base_result": 559,
+        "source": "735 - 320 = ",
+        "one_shot_source": "588 - 157 = 431; 735 - 320 = ",
+        "source_result": 415,
+        "result_variants": {
+            "bbb": 559,
+            "bbs": 555,
+            "bsb": 519,
+            "bss": 515,
+            "sbb": 459,
+            "sbs": 455,
+            "ssb": 419,
+            "sss": 415
+        }
+    },
+    {
+        "base": "581 - 300 = ",
+        "one_shot_base": "588 - 157 = 431; 581 - 300 = ",
+        "base_result": 281,
+        "source": "479 - 300 = ",
+        "one_shot_source": "588 - 157 = 431; 479 - 300 = ",
+        "source_result": 179,
+        "result_variants": {
+            "bbb": 281,
+            "bbs": 289,
+            "bsb": 271,
+            "bss": 279,
+            "sbb": 181,
+            "sbs": 189,
+            "ssb": 171,
+            "sss": 179
+        }
+    },
+    {
+        "base": "818 - 315 = ",
+        "one_shot_base": "588 - 157 = 431; 818 - 315 = ",
+        "base_result": 503,
+        "source": "466 - 315 = ",
+        "one_shot_source": "588 - 157 = 431; 466 - 315 = ",
+        "source_result": 151,
+        "result_variants": {
+            "bbb": 503,
+            "bbs": 501,
+            "bsb": 553,
+            "bss": 551,
+            "sbb": 103,
+            "sbs": 101,
+            "ssb": 153,
+            "sss": 151
+        }
+    },
+    {
+        "base": "687 - 341 = ",
+        "one_shot_base": "588 - 157 = 431; 687 - 341 = ",
+        "base_result": 346,
+        "source": "473 - 341 = ",
+        "one_shot_source": "588 - 157 = 431; 473 - 341 = ",
+        "source_result": 132,
+        "result_variants": {
+            "bbb": 346,
+            "bbs": 342,
+            "bsb": 336,
+            "bss": 332,
+            "sbb": 146,
+            "sbs": 142,
+            "ssb": 136,
+            "sss": 132
+        }
+    },
+    {
+        "base": "486 - 340 = ",
+        "one_shot_base": "588 - 157 = 431; 486 - 340 = ",
+        "base_result": 146,
+        "source": "869 - 340 = ",
+        "one_shot_source": "588 - 157 = 431; 869 - 340 = ",
+        "source_result": 529,
+        "result_variants": {
+            "bbb": 146,
+            "bbs": 149,
+            "bsb": 126,
+            "bss": 129,
+            "sbb": 546,
+            "sbs": 549,
+            "ssb": 526,
+            "sss": 529
+        }
+    },
+    {
+        "base": "842 - 701 = ",
+        "one_shot_base": "588 - 157 = 431; 842 - 701 = ",
+        "base_result": 141,
+        "source": "967 - 701 = ",
+        "one_shot_source": "588 - 157 = 431; 967 - 701 = ",
+        "source_result": 266,
+        "result_variants": {
+            "bbb": 141,
+            "bbs": 146,
+            "bsb": 161,
+            "bss": 166,
+            "sbb": 241,
+            "sbs": 246,
+            "ssb": 261,
+            "sss": 266
+        }
+    },
+    {
+        "base": "347 - 202 = ",
+        "one_shot_base": "588 - 157 = 431; 347 - 202 = ",
+        "base_result": 145,
+        "source": "733 - 202 = ",
+        "one_shot_source": "588 - 157 = 431; 733 - 202 = ",
+        "source_result": 531,
+        "result_variants": {
+            "bbb": 145,
+            "bbs": 141,
+            "bsb": 135,
+            "bss": 131,
+            "sbb": 545,
+            "sbs": 541,
+            "ssb": 535,
+            "sss": 531
+        }
+    },
+    {
+        "base": "889 - 522 = ",
+        "one_shot_base": "588 - 157 = 431; 889 - 522 = ",
+        "base_result": 367,
+        "source": "925 - 522 = ",
+        "one_shot_source": "588 - 157 = 431; 925 - 522 = ",
+        "source_result": 403,
+        "result_variants": {
+            "bbb": 367,
+            "bbs": 363,
+            "bsb": 307,
+            "bss": 303,
+            "sbb": 467,
+            "sbs": 463,
+            "ssb": 407,
+            "sss": 403
+        }
+    },
+    {
+        "base": "872 - 241 = ",
+        "one_shot_base": "588 - 157 = 431; 872 - 241 = ",
+        "base_result": 631,
+        "source": "766 - 241 = ",
+        "one_shot_source": "588 - 157 = 431; 766 - 241 = ",
+        "source_result": 525,
+        "result_variants": {
+            "bbb": 631,
+            "bbs": 635,
+            "bsb": 621,
+            "bss": 625,
+            "sbb": 531,
+            "sbs": 535,
+            "ssb": 521,
+            "sss": 525
+        }
+    },
+    {
+        "base": "598 - 208 = ",
+        "one_shot_base": "588 - 157 = 431; 598 - 208 = ",
+        "base_result": 390,
+        "source": "829 - 208 = ",
+        "one_shot_source": "588 - 157 = 431; 829 - 208 = ",
+        "source_result": 621,
+        "result_variants": {
+            "bbb": 390,
+            "bbs": 391,
+            "bsb": 320,
+            "bss": 321,
+            "sbb": 690,
+            "sbs": 691,
+            "ssb": 620,
+            "sss": 621
+        }
+    },
+    {
+        "base": "789 - 610 = ",
+        "one_shot_base": "588 - 157 = 431; 789 - 610 = ",
+        "base_result": 179,
+        "source": "957 - 610 = ",
+        "one_shot_source": "588 - 157 = 431; 957 - 610 = ",
+        "source_result": 347,
+        "result_variants": {
+            "bbb": 179,
+            "bbs": 177,
+            "bsb": 149,
+            "bss": 147,
+            "sbb": 379,
+            "sbs": 377,
+            "ssb": 349,
+            "sss": 347
+        }
+    },
+    {
+        "base": "766 - 206 = ",
+        "one_shot_base": "588 - 157 = 431; 766 - 206 = ",
+        "base_result": 560,
+        "source": "528 - 206 = ",
+        "one_shot_source": "588 - 157 = 431; 528 - 206 = ",
+        "source_result": 322,
+        "result_variants": {
+            "bbb": 560,
+            "bbs": 562,
+            "bsb": 520,
+            "bss": 522,
+            "sbb": 360,
+            "sbs": 362,
+            "ssb": 320,
+            "sss": 322
+        }
+    },
+    {
+        "base": "718 - 214 = ",
+        "one_shot_base": "588 - 157 = 431; 718 - 214 = ",
+        "base_result": 504,
+        "source": "527 - 214 = ",
+        "one_shot_source": "588 - 157 = 431; 527 - 214 = ",
+        "source_result": 313,
+        "result_variants": {
+            "bbb": 504,
+            "bbs": 503,
+            "bsb": 514,
+            "bss": 513,
+            "sbb": 304,
+            "sbs": 303,
+            "ssb": 314,
+            "sss": 313
+        }
+    },
+    {
+        "base": "568 - 323 = ",
+        "one_shot_base": "588 - 157 = 431; 568 - 323 = ",
+        "base_result": 245,
+        "source": "459 - 323 = ",
+        "one_shot_source": "588 - 157 = 431; 459 - 323 = ",
+        "source_result": 136,
+        "result_variants": {
+            "bbb": 245,
+            "bbs": 246,
+            "bsb": 235,
+            "bss": 236,
+            "sbb": 145,
+            "sbs": 146,
+            "ssb": 135,
+            "sss": 136
+        }
+    },
+    {
+        "base": "446 - 141 = ",
+        "one_shot_base": "588 - 157 = 431; 446 - 141 = ",
+        "base_result": 305,
+        "source": "985 - 141 = ",
+        "one_shot_source": "588 - 157 = 431; 985 - 141 = ",
+        "source_result": 844,
+        "result_variants": {
+            "bbb": 305,
+            "bbs": 304,
+            "bsb": 345,
+            "bss": 344,
+            "sbb": 805,
+            "sbs": 804,
+            "ssb": 845,
+            "sss": 844
+        }
+    },
+    {
+        "base": "568 - 456 = ",
+        "one_shot_base": "588 - 157 = 431; 568 - 456 = ",
+        "base_result": 112,
+        "source": "787 - 456 = ",
+        "one_shot_source": "588 - 157 = 431; 787 - 456 = ",
+        "source_result": 331,
+        "result_variants": {
+            "bbb": 112,
+            "bbs": 111,
+            "bsb": 132,
+            "bss": 131,
+            "sbb": 312,
+            "sbs": 311,
+            "ssb": 332,
+            "sss": 331
+        }
+    },
+    {
+        "base": "534 - 330 = ",
+        "one_shot_base": "588 - 157 = 431; 534 - 330 = ",
+        "base_result": 204,
+        "source": "992 - 330 = ",
+        "one_shot_source": "588 - 157 = 431; 992 - 330 = ",
+        "source_result": 662,
+        "result_variants": {
+            "bbb": 204,
+            "bbs": 202,
+            "bsb": 264,
+            "bss": 262,
+            "sbb": 604,
+            "sbs": 602,
+            "ssb": 664,
+            "sss": 662
+        }
+    },
+    {
+        "base": "844 - 612 = ",
+        "one_shot_base": "588 - 157 = 431; 844 - 612 = ",
+        "base_result": 232,
+        "source": "923 - 612 = ",
+        "one_shot_source": "588 - 157 = 431; 923 - 612 = ",
+        "source_result": 311,
+        "result_variants": {
+            "bbb": 232,
+            "bbs": 231,
+            "bsb": 212,
+            "bss": 211,
+            "sbb": 332,
+            "sbs": 331,
+            "ssb": 312,
+            "sss": 311
+        }
+    },
+    {
+        "base": "869 - 466 = ",
+        "one_shot_base": "588 - 157 = 431; 869 - 466 = ",
+        "base_result": 403,
+        "source": "588 - 466 = ",
+        "one_shot_source": "588 - 157 = 431; 588 - 466 = ",
+        "source_result": 122,
+        "result_variants": {
+            "bbb": 403,
+            "bbs": 402,
+            "bsb": 423,
+            "bss": 422,
+            "sbb": 103,
+            "sbs": 102,
+            "ssb": 123,
+            "sss": 122
+        }
+    },
+    {
+        "base": "338 - 117 = ",
+        "one_shot_base": "588 - 157 = 431; 338 - 117 = ",
+        "base_result": 221,
+        "source": "969 - 117 = ",
+        "one_shot_source": "588 - 157 = 431; 969 - 117 = ",
+        "source_result": 852,
+        "result_variants": {
+            "bbb": 221,
+            "bbs": 222,
+            "bsb": 251,
+            "bss": 252,
+            "sbb": 821,
+            "sbs": 822,
+            "ssb": 851,
+            "sss": 852
+        }
+    },
+    {
+        "base": "548 - 437 = ",
+        "one_shot_base": "588 - 157 = 431; 548 - 437 = ",
+        "base_result": 111,
+        "source": "967 - 437 = ",
+        "one_shot_source": "588 - 157 = 431; 967 - 437 = ",
+        "source_result": 530,
+        "result_variants": {
+            "bbb": 111,
+            "bbs": 110,
+            "bsb": 131,
+            "bss": 130,
+            "sbb": 511,
+            "sbs": 510,
+            "ssb": 531,
+            "sss": 530
+        }
+    },
+    {
+        "base": "494 - 221 = ",
+        "one_shot_base": "588 - 157 = 431; 494 - 221 = ",
+        "base_result": 273,
+        "source": "863 - 221 = ",
+        "one_shot_source": "588 - 157 = 431; 863 - 221 = ",
+        "source_result": 642,
+        "result_variants": {
+            "bbb": 273,
+            "bbs": 272,
+            "bsb": 243,
+            "bss": 242,
+            "sbb": 673,
+            "sbs": 672,
+            "ssb": 643,
+            "sss": 642
+        }
+    },
+    {
+        "base": "781 - 171 = ",
+        "one_shot_base": "588 - 157 = 431; 781 - 171 = ",
+        "base_result": 610,
+        "source": "499 - 171 = ",
+        "one_shot_source": "588 - 157 = 431; 499 - 171 = ",
+        "source_result": 328,
+        "result_variants": {
+            "bbb": 610,
+            "bbs": 618,
+            "bsb": 620,
+            "bss": 628,
+            "sbb": 310,
+            "sbs": 318,
+            "ssb": 320,
+            "sss": 328
+        }
+    },
+    {
+        "base": "569 - 416 = ",
+        "one_shot_base": "588 - 157 = 431; 569 - 416 = ",
+        "base_result": 153,
+        "source": "686 - 416 = ",
+        "one_shot_source": "588 - 157 = 431; 686 - 416 = ",
+        "source_result": 270,
+        "result_variants": {
+            "bbb": 153,
+            "bbs": 150,
+            "bsb": 173,
+            "bss": 170,
+            "sbb": 253,
+            "sbs": 250,
+            "ssb": 273,
+            "sss": 270
+        }
+    },
+    {
+        "base": "867 - 455 = ",
+        "one_shot_base": "588 - 157 = 431; 867 - 455 = ",
+        "base_result": 412,
+        "source": "578 - 455 = ",
+        "one_shot_source": "588 - 157 = 431; 578 - 455 = ",
+        "source_result": 123,
+        "result_variants": {
+            "bbb": 412,
+            "bbs": 413,
+            "bsb": 422,
+            "bss": 423,
+            "sbb": 112,
+            "sbs": 113,
+            "ssb": 122,
+            "sss": 123
+        }
+    },
+    {
+        "base": "888 - 542 = ",
+        "one_shot_base": "588 - 157 = 431; 888 - 542 = ",
+        "base_result": 346,
+        "source": "659 - 542 = ",
+        "one_shot_source": "588 - 157 = 431; 659 - 542 = ",
+        "source_result": 117,
+        "result_variants": {
+            "bbb": 346,
+            "bbs": 347,
+            "bsb": 316,
+            "bss": 317,
+            "sbb": 146,
+            "sbs": 147,
+            "ssb": 116,
+            "sss": 117
+        }
+    },
+    {
+        "base": "661 - 431 = ",
+        "one_shot_base": "588 - 157 = 431; 661 - 431 = ",
+        "base_result": 230,
+        "source": "579 - 431 = ",
+        "one_shot_source": "588 - 157 = 431; 579 - 431 = ",
+        "source_result": 148,
+        "result_variants": {
+            "bbb": 230,
+            "bbs": 238,
+            "bsb": 240,
+            "bss": 248,
+            "sbb": 130,
+            "sbs": 138,
+            "ssb": 140,
+            "sss": 148
+        }
+    },
+    {
+        "base": "798 - 468 = ",
+        "one_shot_base": "588 - 157 = 431; 798 - 468 = ",
+        "base_result": 330,
+        "source": "879 - 468 = ",
+        "one_shot_source": "588 - 157 = 431; 879 - 468 = ",
+        "source_result": 411,
+        "result_variants": {
+            "bbb": 330,
+            "bbs": 331,
+            "bsb": 310,
+            "bss": 311,
+            "sbb": 430,
+            "sbs": 431,
+            "ssb": 410,
+            "sss": 411
+        }
+    },
+    {
+        "base": "484 - 372 = ",
+        "one_shot_base": "588 - 157 = 431; 484 - 372 = ",
+        "base_result": 112,
+        "source": "899 - 372 = ",
+        "one_shot_source": "588 - 157 = 431; 899 - 372 = ",
+        "source_result": 527,
+        "result_variants": {
+            "bbb": 112,
+            "bbs": 117,
+            "bsb": 122,
+            "bss": 127,
+            "sbb": 512,
+            "sbs": 517,
+            "ssb": 522,
+            "sss": 527
+        }
+    },
+    {
+        "base": "547 - 313 = ",
+        "one_shot_base": "588 - 157 = 431; 547 - 313 = ",
+        "base_result": 234,
+        "source": "876 - 313 = ",
+        "one_shot_source": "588 - 157 = 431; 876 - 313 = ",
+        "source_result": 563,
+        "result_variants": {
+            "bbb": 234,
+            "bbs": 233,
+            "bsb": 264,
+            "bss": 263,
+            "sbb": 534,
+            "sbs": 533,
+            "ssb": 564,
+            "sss": 563
+        }
+    },
+    {
+        "base": "792 - 132 = ",
+        "one_shot_base": "588 - 157 = 431; 792 - 132 = ",
+        "base_result": 660,
+        "source": "289 - 132 = ",
+        "one_shot_source": "588 - 157 = 431; 289 - 132 = ",
+        "source_result": 157,
+        "result_variants": {
+            "bbb": 660,
+            "bbs": 667,
+            "bsb": 650,
+            "bss": 657,
+            "sbb": 160,
+            "sbs": 167,
+            "ssb": 150,
+            "sss": 157
+        }
+    },
+    {
+        "base": "864 - 554 = ",
+        "one_shot_base": "588 - 157 = 431; 864 - 554 = ",
+        "base_result": 310,
+        "source": "975 - 554 = ",
+        "one_shot_source": "588 - 157 = 431; 975 - 554 = ",
+        "source_result": 421,
+        "result_variants": {
+            "bbb": 310,
+            "bbs": 311,
+            "bsb": 320,
+            "bss": 321,
+            "sbb": 410,
+            "sbs": 411,
+            "ssb": 420,
+            "sss": 421
+        }
+    },
+    {
+        "base": "868 - 206 = ",
+        "one_shot_base": "588 - 157 = 431; 868 - 206 = ",
+        "base_result": 662,
+        "source": "519 - 206 = ",
+        "one_shot_source": "588 - 157 = 431; 519 - 206 = ",
+        "source_result": 313,
+        "result_variants": {
+            "bbb": 662,
+            "bbs": 663,
+            "bsb": 612,
+            "bss": 613,
+            "sbb": 362,
+            "sbs": 363,
+            "ssb": 312,
+            "sss": 313
+        }
+    },
+    {
+        "base": "876 - 445 = ",
+        "one_shot_base": "588 - 157 = 431; 876 - 445 = ",
+        "base_result": 431,
+        "source": "589 - 445 = ",
+        "one_shot_source": "588 - 157 = 431; 589 - 445 = ",
+        "source_result": 144,
+        "result_variants": {
+            "bbb": 431,
+            "bbs": 434,
+            "bsb": 441,
+            "bss": 444,
+            "sbb": 131,
+            "sbs": 134,
+            "ssb": 141,
+            "sss": 144
+        }
+    },
+    {
+        "base": "688 - 315 = ",
+        "one_shot_base": "588 - 157 = 431; 688 - 315 = ",
+        "base_result": 373,
+        "source": "897 - 315 = ",
+        "one_shot_source": "588 - 157 = 431; 897 - 315 = ",
+        "source_result": 582,
+        "result_variants": {
+            "bbb": 373,
+            "bbs": 372,
+            "bsb": 383,
+            "bss": 382,
+            "sbb": 573,
+            "sbs": 572,
+            "ssb": 583,
+            "sss": 582
+        }
+    },
+    {
+        "base": "674 - 502 = ",
+        "one_shot_base": "588 - 157 = 431; 674 - 502 = ",
+        "base_result": 172,
+        "source": "868 - 502 = ",
+        "one_shot_source": "588 - 157 = 431; 868 - 502 = ",
+        "source_result": 366,
+        "result_variants": {
+            "bbb": 172,
+            "bbs": 176,
+            "bsb": 162,
+            "bss": 166,
+            "sbb": 372,
+            "sbs": 376,
+            "ssb": 362,
+            "sss": 366
+        }
+    },
+    {
+        "base": "862 - 221 = ",
+        "one_shot_base": "588 - 157 = 431; 862 - 221 = ",
+        "base_result": 641,
+        "source": "657 - 221 = ",
+        "one_shot_source": "588 - 157 = 431; 657 - 221 = ",
+        "source_result": 436,
+        "result_variants": {
+            "bbb": 641,
+            "bbs": 646,
+            "bsb": 631,
+            "bss": 636,
+            "sbb": 441,
+            "sbs": 446,
+            "ssb": 431,
+            "sss": 436
+        }
+    },
+    {
+        "base": "488 - 320 = ",
+        "one_shot_base": "588 - 157 = 431; 488 - 320 = ",
+        "base_result": 168,
+        "source": "771 - 320 = ",
+        "one_shot_source": "588 - 157 = 431; 771 - 320 = ",
+        "source_result": 451,
+        "result_variants": {
+            "bbb": 168,
+            "bbs": 161,
+            "bsb": 158,
+            "bss": 151,
+            "sbb": 468,
+            "sbs": 461,
+            "ssb": 458,
+            "sss": 451
+        }
+    },
+    {
+        "base": "887 - 254 = ",
+        "one_shot_base": "588 - 157 = 431; 887 - 254 = ",
+        "base_result": 633,
+        "source": "396 - 254 = ",
+        "one_shot_source": "588 - 157 = 431; 396 - 254 = ",
+        "source_result": 142,
+        "result_variants": {
+            "bbb": 633,
+            "bbs": 632,
+            "bsb": 643,
+            "bss": 642,
+            "sbb": 133,
+            "sbs": 132,
+            "ssb": 143,
+            "sss": 142
+        }
+    },
+    {
+        "base": "866 - 513 = ",
+        "one_shot_base": "588 - 157 = 431; 866 - 513 = ",
+        "base_result": 353,
+        "source": "985 - 513 = ",
+        "one_shot_source": "588 - 157 = 431; 985 - 513 = ",
+        "source_result": 472,
+        "result_variants": {
+            "bbb": 353,
+            "bbs": 352,
+            "bsb": 373,
+            "bss": 372,
+            "sbb": 453,
+            "sbs": 452,
+            "ssb": 473,
+            "sss": 472
+        }
+    },
+    {
+        "base": "693 - 483 = ",
+        "one_shot_base": "588 - 157 = 431; 693 - 483 = ",
+        "base_result": 210,
+        "source": "789 - 483 = ",
+        "one_shot_source": "588 - 157 = 431; 789 - 483 = ",
+        "source_result": 306,
+        "result_variants": {
+            "bbb": 210,
+            "bbs": 216,
+            "bsb": 200,
+            "bss": 206,
+            "sbb": 310,
+            "sbs": 316,
+            "ssb": 300,
+            "sss": 306
+        }
+    },
+    {
+        "base": "884 - 522 = ",
+        "one_shot_base": "588 - 157 = 431; 884 - 522 = ",
+        "base_result": 362,
+        "source": "672 - 522 = ",
+        "one_shot_source": "588 - 157 = 431; 672 - 522 = ",
+        "source_result": 150,
+        "result_variants": {
+            "bbb": 362,
+            "bbs": 360,
+            "bsb": 352,
+            "bss": 350,
+            "sbb": 162,
+            "sbs": 160,
+            "ssb": 152,
+            "sss": 150
+        }
+    },
+    {
+        "base": "597 - 180 = ",
+        "one_shot_base": "588 - 157 = 431; 597 - 180 = ",
+        "base_result": 417,
+        "source": "881 - 180 = ",
+        "one_shot_source": "588 - 157 = 431; 881 - 180 = ",
+        "source_result": 701,
+        "result_variants": {
+            "bbb": 417,
+            "bbs": 411,
+            "bsb": 407,
+            "bss": 401,
+            "sbb": 717,
+            "sbs": 711,
+            "ssb": 707,
+            "sss": 701
+        }
+    },
+    {
+        "base": "575 - 354 = ",
+        "one_shot_base": "588 - 157 = 431; 575 - 354 = ",
+        "base_result": 221,
+        "source": "769 - 354 = ",
+        "one_shot_source": "588 - 157 = 431; 769 - 354 = ",
+        "source_result": 415,
+        "result_variants": {
+            "bbb": 221,
+            "bbs": 225,
+            "bsb": 211,
+            "bss": 215,
+            "sbb": 421,
+            "sbs": 425,
+            "ssb": 411,
+            "sss": 415
+        }
+    },
+    {
+        "base": "594 - 311 = ",
+        "one_shot_base": "588 - 157 = 431; 594 - 311 = ",
+        "base_result": 283,
+        "source": "845 - 311 = ",
+        "one_shot_source": "588 - 157 = 431; 845 - 311 = ",
+        "source_result": 534,
+        "result_variants": {
+            "bbb": 283,
+            "bbs": 284,
+            "bsb": 233,
+            "bss": 234,
+            "sbb": 583,
+            "sbs": 584,
+            "ssb": 533,
+            "sss": 534
+        }
+    },
+    {
+        "base": "579 - 367 = ",
+        "one_shot_base": "588 - 157 = 431; 579 - 367 = ",
+        "base_result": 212,
+        "source": "998 - 367 = ",
+        "one_shot_source": "588 - 157 = 431; 998 - 367 = ",
+        "source_result": 631,
+        "result_variants": {
+            "bbb": 212,
+            "bbs": 211,
+            "bsb": 232,
+            "bss": 231,
+            "sbb": 612,
+            "sbs": 611,
+            "ssb": 632,
+            "sss": 631
+        }
+    },
+    {
+        "base": "877 - 505 = ",
+        "one_shot_base": "588 - 157 = 431; 877 - 505 = ",
+        "base_result": 372,
+        "source": "705 - 505 = ",
+        "one_shot_source": "588 - 157 = 431; 705 - 505 = ",
+        "source_result": 200,
+        "result_variants": {
+            "bbb": 372,
+            "bbs": 370,
+            "bsb": 302,
+            "bss": 300,
+            "sbb": 272,
+            "sbs": 270,
+            "ssb": 202,
+            "sss": 200
+        }
+    },
+    {
+        "base": "647 - 317 = ",
+        "one_shot_base": "588 - 157 = 431; 647 - 317 = ",
+        "base_result": 330,
+        "source": "928 - 317 = ",
+        "one_shot_source": "588 - 157 = 431; 928 - 317 = ",
+        "source_result": 611,
+        "result_variants": {
+            "bbb": 330,
+            "bbs": 331,
+            "bsb": 310,
+            "bss": 311,
+            "sbb": 630,
+            "sbs": 631,
+            "ssb": 610,
+            "sss": 611
+        }
+    },
+    {
+        "base": "679 - 253 = ",
+        "one_shot_base": "588 - 157 = 431; 679 - 253 = ",
+        "base_result": 426,
+        "source": "555 - 253 = ",
+        "one_shot_source": "588 - 157 = 431; 555 - 253 = ",
+        "source_result": 302,
+        "result_variants": {
+            "bbb": 426,
+            "bbs": 422,
+            "bsb": 406,
+            "bss": 402,
+            "sbb": 326,
+            "sbs": 322,
+            "ssb": 306,
+            "sss": 302
+        }
+    },
+    {
+        "base": "889 - 265 = ",
+        "one_shot_base": "588 - 157 = 431; 889 - 265 = ",
+        "base_result": 624,
+        "source": "398 - 265 = ",
+        "one_shot_source": "588 - 157 = 431; 398 - 265 = ",
+        "source_result": 133,
+        "result_variants": {
+            "bbb": 624,
+            "bbs": 623,
+            "bsb": 634,
+            "bss": 633,
+            "sbb": 124,
+            "sbs": 123,
+            "ssb": 134,
+            "sss": 133
+        }
+    },
+    {
+        "base": "697 - 475 = ",
+        "one_shot_base": "588 - 157 = 431; 697 - 475 = ",
+        "base_result": 222,
+        "source": "588 - 475 = ",
+        "one_shot_source": "588 - 157 = 431; 588 - 475 = ",
+        "source_result": 113,
+        "result_variants": {
+            "bbb": 222,
+            "bbs": 223,
+            "bsb": 212,
+            "bss": 213,
+            "sbb": 122,
+            "sbs": 123,
+            "ssb": 112,
+            "sss": 113
+        }
+    },
+    {
+        "base": "769 - 216 = ",
+        "one_shot_base": "588 - 157 = 431; 769 - 216 = ",
+        "base_result": 553,
+        "source": "947 - 216 = ",
+        "one_shot_source": "588 - 157 = 431; 947 - 216 = ",
+        "source_result": 731,
+        "result_variants": {
+            "bbb": 553,
+            "bbs": 551,
+            "bsb": 533,
+            "bss": 531,
+            "sbb": 753,
+            "sbs": 751,
+            "ssb": 733,
+            "sss": 731
+        }
+    },
+    {
+        "base": "482 - 321 = ",
+        "one_shot_base": "588 - 157 = 431; 482 - 321 = ",
+        "base_result": 161,
+        "source": "599 - 321 = ",
+        "one_shot_source": "588 - 157 = 431; 599 - 321 = ",
+        "source_result": 278,
+        "result_variants": {
+            "bbb": 161,
+            "bbs": 168,
+            "bsb": 171,
+            "bss": 178,
+            "sbb": 261,
+            "sbs": 268,
+            "ssb": 271,
+            "sss": 278
+        }
+    },
+    {
+        "base": "532 - 400 = ",
+        "one_shot_base": "588 - 157 = 431; 532 - 400 = ",
+        "base_result": 132,
+        "source": "971 - 400 = ",
+        "one_shot_source": "588 - 157 = 431; 971 - 400 = ",
+        "source_result": 571,
+        "result_variants": {
+            "bbb": 132,
+            "bbs": 131,
+            "bsb": 172,
+            "bss": 171,
+            "sbb": 532,
+            "sbs": 531,
+            "ssb": 572,
+            "sss": 571
+        }
+    },
+    {
+        "base": "666 - 221 = ",
+        "one_shot_base": "588 - 157 = 431; 666 - 221 = ",
+        "base_result": 445,
+        "source": "872 - 221 = ",
+        "one_shot_source": "588 - 157 = 431; 872 - 221 = ",
+        "source_result": 651,
+        "result_variants": {
+            "bbb": 445,
+            "bbs": 441,
+            "bsb": 455,
+            "bss": 451,
+            "sbb": 645,
+            "sbs": 641,
+            "ssb": 655,
+            "sss": 651
+        }
+    },
+    {
+        "base": "478 - 302 = ",
+        "one_shot_base": "588 - 157 = 431; 478 - 302 = ",
+        "base_result": 176,
+        "source": "603 - 302 = ",
+        "one_shot_source": "588 - 157 = 431; 603 - 302 = ",
+        "source_result": 301,
+        "result_variants": {
+            "bbb": 176,
+            "bbs": 171,
+            "bsb": 106,
+            "bss": 101,
+            "sbb": 376,
+            "sbs": 371,
+            "ssb": 306,
+            "sss": 301
+        }
+    },
+    {
+        "base": "855 - 245 = ",
+        "one_shot_base": "588 - 157 = 431; 855 - 245 = ",
+        "base_result": 610,
+        "source": "577 - 245 = ",
+        "one_shot_source": "588 - 157 = 431; 577 - 245 = ",
+        "source_result": 332,
+        "result_variants": {
+            "bbb": 610,
+            "bbs": 612,
+            "bsb": 630,
+            "bss": 632,
+            "sbb": 310,
+            "sbs": 312,
+            "ssb": 330,
+            "sss": 332
+        }
+    },
+    {
+        "base": "799 - 435 = ",
+        "one_shot_base": "588 - 157 = 431; 799 - 435 = ",
+        "base_result": 364,
+        "source": "538 - 435 = ",
+        "one_shot_source": "588 - 157 = 431; 538 - 435 = ",
+        "source_result": 103,
+        "result_variants": {
+            "bbb": 364,
+            "bbs": 363,
+            "bsb": 304,
+            "bss": 303,
+            "sbb": 164,
+            "sbs": 163,
+            "ssb": 104,
+            "sss": 103
+        }
+    },
+    {
+        "base": "596 - 274 = ",
+        "one_shot_base": "588 - 157 = 431; 596 - 274 = ",
+        "base_result": 322,
+        "source": "975 - 274 = ",
+        "one_shot_source": "588 - 157 = 431; 975 - 274 = ",
+        "source_result": 701,
+        "result_variants": {
+            "bbb": 322,
+            "bbs": 321,
+            "bsb": 302,
+            "bss": 301,
+            "sbb": 722,
+            "sbs": 721,
+            "ssb": 702,
+            "sss": 701
+        }
+    },
+    {
+        "base": "425 - 314 = ",
+        "one_shot_base": "588 - 157 = 431; 425 - 314 = ",
+        "base_result": 111,
+        "source": "677 - 314 = ",
+        "one_shot_source": "588 - 157 = 431; 677 - 314 = ",
+        "source_result": 363,
+        "result_variants": {
+            "bbb": 111,
+            "bbs": 113,
+            "bsb": 161,
+            "bss": 163,
+            "sbb": 311,
+            "sbs": 313,
+            "ssb": 361,
+            "sss": 363
+        }
+    },
+    {
+        "base": "412 - 300 = ",
+        "one_shot_base": "588 - 157 = 431; 412 - 300 = ",
+        "base_result": 112,
+        "source": "767 - 300 = ",
+        "one_shot_source": "588 - 157 = 431; 767 - 300 = ",
+        "source_result": 467,
+        "result_variants": {
+            "bbb": 112,
+            "bbs": 117,
+            "bsb": 162,
+            "bss": 167,
+            "sbb": 412,
+            "sbs": 417,
+            "ssb": 462,
+            "sss": 467
+        }
+    },
+    {
+        "base": "393 - 263 = ",
+        "one_shot_base": "588 - 157 = 431; 393 - 263 = ",
+        "base_result": 130,
+        "source": "785 - 263 = ",
+        "one_shot_source": "588 - 157 = 431; 785 - 263 = ",
+        "source_result": 522,
+        "result_variants": {
+            "bbb": 130,
+            "bbs": 132,
+            "bsb": 120,
+            "bss": 122,
+            "sbb": 530,
+            "sbs": 532,
+            "ssb": 520,
+            "sss": 522
+        }
+    },
+    {
+        "base": "719 - 203 = ",
+        "one_shot_base": "588 - 157 = 431; 719 - 203 = ",
+        "base_result": 516,
+        "source": "306 - 203 = ",
+        "one_shot_source": "588 - 157 = 431; 306 - 203 = ",
+        "source_result": 103,
+        "result_variants": {
+            "bbb": 516,
+            "bbs": 513,
+            "bsb": 506,
+            "bss": 503,
+            "sbb": 116,
+            "sbs": 113,
+            "ssb": 106,
+            "sss": 103
+        }
+    },
+    {
+        "base": "673 - 110 = ",
+        "one_shot_base": "588 - 157 = 431; 673 - 110 = ",
+        "base_result": 563,
+        "source": "442 - 110 = ",
+        "one_shot_source": "588 - 157 = 431; 442 - 110 = ",
+        "source_result": 332,
+        "result_variants": {
+            "bbb": 563,
+            "bbs": 562,
+            "bsb": 533,
+            "bss": 532,
+            "sbb": 363,
+            "sbs": 362,
+            "ssb": 333,
+            "sss": 332
+        }
+    },
+    {
+        "base": "427 - 302 = ",
+        "one_shot_base": "588 - 157 = 431; 427 - 302 = ",
+        "base_result": 125,
+        "source": "735 - 302 = ",
+        "one_shot_source": "588 - 157 = 431; 735 - 302 = ",
+        "source_result": 433,
+        "result_variants": {
+            "bbb": 125,
+            "bbs": 123,
+            "bsb": 135,
+            "bss": 133,
+            "sbb": 425,
+            "sbs": 423,
+            "ssb": 435,
+            "sss": 433
+        }
+    },
+    {
+        "base": "518 - 108 = ",
+        "one_shot_base": "588 - 157 = 431; 518 - 108 = ",
+        "base_result": 410,
+        "source": "369 - 108 = ",
+        "one_shot_source": "588 - 157 = 431; 369 - 108 = ",
+        "source_result": 261,
+        "result_variants": {
+            "bbb": 410,
+            "bbs": 411,
+            "bsb": 460,
+            "bss": 461,
+            "sbb": 210,
+            "sbs": 211,
+            "ssb": 260,
+            "sss": 261
+        }
+    },
+    {
+        "base": "867 - 523 = ",
+        "one_shot_base": "588 - 157 = 431; 867 - 523 = ",
+        "base_result": 344,
+        "source": "774 - 523 = ",
+        "one_shot_source": "588 - 157 = 431; 774 - 523 = ",
+        "source_result": 251,
+        "result_variants": {
+            "bbb": 344,
+            "bbs": 341,
+            "bsb": 354,
+            "bss": 351,
+            "sbb": 244,
+            "sbs": 241,
+            "ssb": 254,
+            "sss": 251
+        }
+    },
+    {
+        "base": "559 - 332 = ",
+        "one_shot_base": "588 - 157 = 431; 559 - 332 = ",
+        "base_result": 227,
+        "source": "432 - 332 = ",
+        "one_shot_source": "588 - 157 = 431; 432 - 332 = ",
+        "source_result": 100,
+        "result_variants": {
+            "bbb": 227,
+            "bbs": 220,
+            "bsb": 207,
+            "bss": 200,
+            "sbb": 127,
+            "sbs": 120,
+            "ssb": 107,
+            "sss": 100
+        }
+    },
+    {
+        "base": "859 - 305 = ",
+        "one_shot_base": "588 - 157 = 431; 859 - 305 = ",
+        "base_result": 554,
+        "source": "948 - 305 = ",
+        "one_shot_source": "588 - 157 = 431; 948 - 305 = ",
+        "source_result": 643,
+        "result_variants": {
+            "bbb": 554,
+            "bbs": 553,
+            "bsb": 544,
+            "bss": 543,
+            "sbb": 654,
+            "sbs": 653,
+            "ssb": 644,
+            "sss": 643
+        }
+    },
+    {
+        "base": "785 - 401 = ",
+        "one_shot_base": "588 - 157 = 431; 785 - 401 = ",
+        "base_result": 384,
+        "source": "649 - 401 = ",
+        "one_shot_source": "588 - 157 = 431; 649 - 401 = ",
+        "source_result": 248,
+        "result_variants": {
+            "bbb": 384,
+            "bbs": 388,
+            "bsb": 344,
+            "bss": 348,
+            "sbb": 284,
+            "sbs": 288,
+            "ssb": 244,
+            "sss": 248
+        }
+    },
+    {
+        "base": "816 - 114 = ",
+        "one_shot_base": "588 - 157 = 431; 816 - 114 = ",
+        "base_result": 702,
+        "source": "628 - 114 = ",
+        "one_shot_source": "588 - 157 = 431; 628 - 114 = ",
+        "source_result": 514,
+        "result_variants": {
+            "bbb": 702,
+            "bbs": 704,
+            "bsb": 712,
+            "bss": 714,
+            "sbb": 502,
+            "sbs": 504,
+            "ssb": 512,
+            "sss": 514
+        }
+    },
+    {
+        "base": "836 - 305 = ",
+        "one_shot_base": "588 - 157 = 431; 836 - 305 = ",
+        "base_result": 531,
+        "source": "778 - 305 = ",
+        "one_shot_source": "588 - 157 = 431; 778 - 305 = ",
+        "source_result": 473,
+        "result_variants": {
+            "bbb": 531,
+            "bbs": 533,
+            "bsb": 571,
+            "bss": 573,
+            "sbb": 431,
+            "sbs": 433,
+            "ssb": 471,
+            "sss": 473
+        }
+    },
+    {
+        "base": "678 - 574 = ",
+        "one_shot_base": "588 - 157 = 431; 678 - 574 = ",
+        "base_result": 104,
+        "source": "885 - 574 = ",
+        "one_shot_source": "588 - 157 = 431; 885 - 574 = ",
+        "source_result": 311,
+        "result_variants": {
+            "bbb": 104,
+            "bbs": 101,
+            "bsb": 114,
+            "bss": 111,
+            "sbb": 304,
+            "sbs": 301,
+            "ssb": 314,
+            "sss": 311
+        }
+    },
+    {
+        "base": "796 - 142 = ",
+        "one_shot_base": "588 - 157 = 431; 796 - 142 = ",
+        "base_result": 654,
+        "source": "978 - 142 = ",
+        "one_shot_source": "588 - 157 = 431; 978 - 142 = ",
+        "source_result": 836,
+        "result_variants": {
+            "bbb": 654,
+            "bbs": 656,
+            "bsb": 634,
+            "bss": 636,
+            "sbb": 854,
+            "sbs": 856,
+            "ssb": 834,
+            "sss": 836
+        }
+    },
+    {
+        "base": "454 - 232 = ",
+        "one_shot_base": "588 - 157 = 431; 454 - 232 = ",
+        "base_result": 222,
+        "source": "393 - 232 = ",
+        "one_shot_source": "588 - 157 = 431; 393 - 232 = ",
+        "source_result": 161,
+        "result_variants": {
+            "bbb": 222,
+            "bbs": 221,
+            "bsb": 262,
+            "bss": 261,
+            "sbb": 122,
+            "sbs": 121,
+            "ssb": 162,
+            "sss": 161
+        }
+    },
+    {
+        "base": "347 - 147 = ",
+        "one_shot_base": "588 - 157 = 431; 347 - 147 = ",
+        "base_result": 200,
+        "source": "699 - 147 = ",
+        "one_shot_source": "588 - 157 = 431; 699 - 147 = ",
+        "source_result": 552,
+        "result_variants": {
+            "bbb": 200,
+            "bbs": 202,
+            "bsb": 250,
+            "bss": 252,
+            "sbb": 500,
+            "sbs": 502,
+            "ssb": 550,
+            "sss": 552
+        }
+    },
+    {
+        "base": "614 - 404 = ",
+        "one_shot_base": "588 - 157 = 431; 614 - 404 = ",
+        "base_result": 210,
+        "source": "968 - 404 = ",
+        "one_shot_source": "588 - 157 = 431; 968 - 404 = ",
+        "source_result": 564,
+        "result_variants": {
+            "bbb": 210,
+            "bbs": 214,
+            "bsb": 260,
+            "bss": 264,
+            "sbb": 510,
+            "sbs": 514,
+            "ssb": 560,
+            "sss": 564
+        }
+    },
+    {
+        "base": "833 - 201 = ",
+        "one_shot_base": "588 - 157 = 431; 833 - 201 = ",
+        "base_result": 632,
+        "source": "609 - 201 = ",
+        "one_shot_source": "588 - 157 = 431; 609 - 201 = ",
+        "source_result": 408,
+        "result_variants": {
+            "bbb": 632,
+            "bbs": 638,
+            "bsb": 602,
+            "bss": 608,
+            "sbb": 432,
+            "sbs": 438,
+            "ssb": 402,
+            "sss": 408
+        }
+    },
+    {
+        "base": "677 - 561 = ",
+        "one_shot_base": "588 - 157 = 431; 677 - 561 = ",
+        "base_result": 116,
+        "source": "984 - 561 = ",
+        "one_shot_source": "588 - 157 = 431; 984 - 561 = ",
+        "source_result": 423,
+        "result_variants": {
+            "bbb": 116,
+            "bbs": 113,
+            "bsb": 126,
+            "bss": 123,
+            "sbb": 416,
+            "sbs": 413,
+            "ssb": 426,
+            "sss": 423
+        }
+    },
+    {
+        "base": "677 - 172 = ",
+        "one_shot_base": "588 - 157 = 431; 677 - 172 = ",
+        "base_result": 505,
+        "source": "484 - 172 = ",
+        "one_shot_source": "588 - 157 = 431; 484 - 172 = ",
+        "source_result": 312,
+        "result_variants": {
+            "bbb": 505,
+            "bbs": 502,
+            "bsb": 515,
+            "bss": 512,
+            "sbb": 305,
+            "sbs": 302,
+            "ssb": 315,
+            "sss": 312
+        }
+    },
+    {
+        "base": "563 - 250 = ",
+        "one_shot_base": "588 - 157 = 431; 563 - 250 = ",
+        "base_result": 313,
+        "source": "795 - 250 = ",
+        "one_shot_source": "588 - 157 = 431; 795 - 250 = ",
+        "source_result": 545,
+        "result_variants": {
+            "bbb": 313,
+            "bbs": 315,
+            "bsb": 343,
+            "bss": 345,
+            "sbb": 513,
+            "sbs": 515,
+            "ssb": 543,
+            "sss": 545
+        }
+    },
+    {
+        "base": "837 - 425 = ",
+        "one_shot_base": "588 - 157 = 431; 837 - 425 = ",
+        "base_result": 412,
+        "source": "959 - 425 = ",
+        "one_shot_source": "588 - 157 = 431; 959 - 425 = ",
+        "source_result": 534,
+        "result_variants": {
+            "bbb": 412,
+            "bbs": 414,
+            "bsb": 432,
+            "bss": 434,
+            "sbb": 512,
+            "sbs": 514,
+            "ssb": 532,
+            "sss": 534
+        }
+    },
+    {
+        "base": "767 - 413 = ",
+        "one_shot_base": "588 - 157 = 431; 767 - 413 = ",
+        "base_result": 354,
+        "source": "673 - 413 = ",
+        "one_shot_source": "588 - 157 = 431; 673 - 413 = ",
+        "source_result": 260,
+        "result_variants": {
+            "bbb": 354,
+            "bbs": 350,
+            "bsb": 364,
+            "bss": 360,
+            "sbb": 254,
+            "sbs": 250,
+            "ssb": 264,
+            "sss": 260
+        }
+    },
+    {
+        "base": "729 - 303 = ",
+        "one_shot_base": "588 - 157 = 431; 729 - 303 = ",
+        "base_result": 426,
+        "source": "446 - 303 = ",
+        "one_shot_source": "588 - 157 = 431; 446 - 303 = ",
+        "source_result": 143,
+        "result_variants": {
+            "bbb": 426,
+            "bbs": 423,
+            "bsb": 446,
+            "bss": 443,
+            "sbb": 126,
+            "sbs": 123,
+            "ssb": 146,
+            "sss": 143
+        }
+    },
+    {
+        "base": "775 - 563 = ",
+        "one_shot_base": "588 - 157 = 431; 775 - 563 = ",
+        "base_result": 212,
+        "source": "988 - 563 = ",
+        "one_shot_source": "588 - 157 = 431; 988 - 563 = ",
+        "source_result": 425,
+        "result_variants": {
+            "bbb": 212,
+            "bbs": 215,
+            "bsb": 222,
+            "bss": 225,
+            "sbb": 412,
+            "sbs": 415,
+            "ssb": 422,
+            "sss": 425
+        }
+    },
+    {
+        "base": "846 - 536 = ",
+        "one_shot_base": "588 - 157 = 431; 846 - 536 = ",
+        "base_result": 310,
+        "source": "738 - 536 = ",
+        "one_shot_source": "588 - 157 = 431; 738 - 536 = ",
+        "source_result": 202,
+        "result_variants": {
+            "bbb": 310,
+            "bbs": 312,
+            "bsb": 300,
+            "bss": 302,
+            "sbb": 210,
+            "sbs": 212,
+            "ssb": 200,
+            "sss": 202
+        }
+    },
+    {
+        "base": "664 - 302 = ",
+        "one_shot_base": "588 - 157 = 431; 664 - 302 = ",
+        "base_result": 362,
+        "source": "775 - 302 = ",
+        "one_shot_source": "588 - 157 = 431; 775 - 302 = ",
+        "source_result": 473,
+        "result_variants": {
+            "bbb": 362,
+            "bbs": 363,
+            "bsb": 372,
+            "bss": 373,
+            "sbb": 462,
+            "sbs": 463,
+            "ssb": 472,
+            "sss": 473
+        }
+    },
+    {
+        "base": "847 - 114 = ",
+        "one_shot_base": "588 - 157 = 431; 847 - 114 = ",
+        "base_result": 733,
+        "source": "694 - 114 = ",
+        "one_shot_source": "588 - 157 = 431; 694 - 114 = ",
+        "source_result": 580,
+        "result_variants": {
+            "bbb": 733,
+            "bbs": 730,
+            "bsb": 783,
+            "bss": 780,
+            "sbb": 533,
+            "sbs": 530,
+            "ssb": 583,
+            "sss": 580
+        }
+    },
+    {
+        "base": "452 - 100 = ",
+        "one_shot_base": "588 - 157 = 431; 452 - 100 = ",
+        "base_result": 352,
+        "source": "318 - 100 = ",
+        "one_shot_source": "588 - 157 = 431; 318 - 100 = ",
+        "source_result": 218,
+        "result_variants": {
+            "bbb": 352,
+            "bbs": 358,
+            "bsb": 312,
+            "bss": 318,
+            "sbb": 252,
+            "sbs": 258,
+            "ssb": 212,
+            "sss": 218
+        }
+    },
+    {
+        "base": "869 - 340 = ",
+        "one_shot_base": "588 - 157 = 431; 869 - 340 = ",
+        "base_result": 529,
+        "source": "992 - 340 = ",
+        "one_shot_source": "588 - 157 = 431; 992 - 340 = ",
+        "source_result": 652,
+        "result_variants": {
+            "bbb": 529,
+            "bbs": 522,
+            "bsb": 559,
+            "bss": 552,
+            "sbb": 629,
+            "sbs": 622,
+            "ssb": 659,
+            "sss": 652
+        }
+    },
+    {
+        "base": "669 - 203 = ",
+        "one_shot_base": "588 - 157 = 431; 669 - 203 = ",
+        "base_result": 466,
+        "source": "888 - 203 = ",
+        "one_shot_source": "588 - 157 = 431; 888 - 203 = ",
+        "source_result": 685,
+        "result_variants": {
+            "bbb": 466,
+            "bbs": 465,
+            "bsb": 486,
+            "bss": 485,
+            "sbb": 666,
+            "sbs": 665,
+            "ssb": 686,
+            "sss": 685
+        }
+    },
+    {
+        "base": "556 - 223 = ",
+        "one_shot_base": "588 - 157 = 431; 556 - 223 = ",
+        "base_result": 333,
+        "source": "787 - 223 = ",
+        "one_shot_source": "588 - 157 = 431; 787 - 223 = ",
+        "source_result": 564,
+        "result_variants": {
+            "bbb": 333,
+            "bbs": 334,
+            "bsb": 363,
+            "bss": 364,
+            "sbb": 533,
+            "sbs": 534,
+            "ssb": 563,
+            "sss": 564
+        }
+    },
+    {
+        "base": "697 - 141 = ",
+        "one_shot_base": "588 - 157 = 431; 697 - 141 = ",
+        "base_result": 556,
+        "source": "984 - 141 = ",
+        "one_shot_source": "588 - 157 = 431; 984 - 141 = ",
+        "source_result": 843,
+        "result_variants": {
+            "bbb": 556,
+            "bbs": 553,
+            "bsb": 546,
+            "bss": 543,
+            "sbb": 856,
+            "sbs": 853,
+            "ssb": 846,
+            "sss": 843
+        }
+    },
+    {
+        "base": "676 - 272 = ",
+        "one_shot_base": "588 - 157 = 431; 676 - 272 = ",
+        "base_result": 404,
+        "source": "588 - 272 = ",
+        "one_shot_source": "588 - 157 = 431; 588 - 272 = ",
+        "source_result": 316,
+        "result_variants": {
+            "bbb": 404,
+            "bbs": 406,
+            "bsb": 414,
+            "bss": 416,
+            "sbb": 304,
+            "sbs": 306,
+            "ssb": 314,
+            "sss": 316
+        }
+    },
+    {
+        "base": "386 - 282 = ",
+        "one_shot_base": "588 - 157 = 431; 386 - 282 = ",
+        "base_result": 104,
+        "source": "897 - 282 = ",
+        "one_shot_source": "588 - 157 = 431; 897 - 282 = ",
+        "source_result": 615,
+        "result_variants": {
+            "bbb": 104,
+            "bbs": 105,
+            "bsb": 114,
+            "bss": 115,
+            "sbb": 604,
+            "sbs": 605,
+            "ssb": 614,
+            "sss": 615
+        }
+    },
+    {
+        "base": "642 - 242 = ",
+        "one_shot_base": "588 - 157 = 431; 642 - 242 = ",
+        "base_result": 400,
+        "source": "493 - 242 = ",
+        "one_shot_source": "588 - 157 = 431; 493 - 242 = ",
+        "source_result": 251,
+        "result_variants": {
+            "bbb": 400,
+            "bbs": 401,
+            "bsb": 450,
+            "bss": 451,
+            "sbb": 200,
+            "sbs": 201,
+            "ssb": 250,
+            "sss": 251
+        }
+    },
+    {
+        "base": "697 - 262 = ",
+        "one_shot_base": "588 - 157 = 431; 697 - 262 = ",
+        "base_result": 435,
+        "source": "474 - 262 = ",
+        "one_shot_source": "588 - 157 = 431; 474 - 262 = ",
+        "source_result": 212,
+        "result_variants": {
+            "bbb": 435,
+            "bbs": 432,
+            "bsb": 415,
+            "bss": 412,
+            "sbb": 235,
+            "sbs": 232,
+            "ssb": 215,
+            "sss": 212
+        }
+    },
+    {
+        "base": "495 - 274 = ",
+        "one_shot_base": "588 - 157 = 431; 495 - 274 = ",
+        "base_result": 221,
+        "source": "778 - 274 = ",
+        "one_shot_source": "588 - 157 = 431; 778 - 274 = ",
+        "source_result": 504,
+        "result_variants": {
+            "bbb": 221,
+            "bbs": 224,
+            "bsb": 201,
+            "bss": 204,
+            "sbb": 521,
+            "sbs": 524,
+            "ssb": 501,
+            "sss": 504
+        }
+    },
+    {
+        "base": "788 - 352 = ",
+        "one_shot_base": "588 - 157 = 431; 788 - 352 = ",
+        "base_result": 436,
+        "source": "593 - 352 = ",
+        "one_shot_source": "588 - 157 = 431; 593 - 352 = ",
+        "source_result": 241,
+        "result_variants": {
+            "bbb": 436,
+            "bbs": 431,
+            "bsb": 446,
+            "bss": 441,
+            "sbb": 236,
+            "sbs": 231,
+            "ssb": 246,
+            "sss": 241
+        }
+    },
+    {
+        "base": "525 - 320 = ",
+        "one_shot_base": "588 - 157 = 431; 525 - 320 = ",
+        "base_result": 205,
+        "source": "980 - 320 = ",
+        "one_shot_source": "588 - 157 = 431; 980 - 320 = ",
+        "source_result": 660,
+        "result_variants": {
+            "bbb": 205,
+            "bbs": 200,
+            "bsb": 265,
+            "bss": 260,
+            "sbb": 605,
+            "sbs": 600,
+            "ssb": 665,
+            "sss": 660
+        }
+    },
+    {
+        "base": "571 - 320 = ",
+        "one_shot_base": "588 - 157 = 431; 571 - 320 = ",
+        "base_result": 251,
+        "source": "780 - 320 = ",
+        "one_shot_source": "588 - 157 = 431; 780 - 320 = ",
+        "source_result": 460,
+        "result_variants": {
+            "bbb": 251,
+            "bbs": 250,
+            "bsb": 261,
+            "bss": 260,
+            "sbb": 451,
+            "sbs": 450,
+            "ssb": 461,
+            "sss": 460
+        }
+    },
+    {
+        "base": "374 - 142 = ",
+        "one_shot_base": "588 - 157 = 431; 374 - 142 = ",
+        "base_result": 232,
+        "source": "292 - 142 = ",
+        "one_shot_source": "588 - 157 = 431; 292 - 142 = ",
+        "source_result": 150,
+        "result_variants": {
+            "bbb": 232,
+            "bbs": 230,
+            "bsb": 252,
+            "bss": 250,
+            "sbb": 132,
+            "sbs": 130,
+            "ssb": 152,
+            "sss": 150
+        }
+    },
+    {
+        "base": "569 - 255 = ",
+        "one_shot_base": "588 - 157 = 431; 569 - 255 = ",
+        "base_result": 314,
+        "source": "798 - 255 = ",
+        "one_shot_source": "588 - 157 = 431; 798 - 255 = ",
+        "source_result": 543,
+        "result_variants": {
+            "bbb": 314,
+            "bbs": 313,
+            "bsb": 344,
+            "bss": 343,
+            "sbb": 514,
+            "sbs": 513,
+            "ssb": 544,
+            "sss": 543
+        }
+    },
+    {
+        "base": "542 - 241 = ",
+        "one_shot_base": "588 - 157 = 431; 542 - 241 = ",
+        "base_result": 301,
+        "source": "998 - 241 = ",
+        "one_shot_source": "588 - 157 = 431; 998 - 241 = ",
+        "source_result": 757,
+        "result_variants": {
+            "bbb": 301,
+            "bbs": 307,
+            "bsb": 351,
+            "bss": 357,
+            "sbb": 701,
+            "sbs": 707,
+            "ssb": 751,
+            "sss": 757
+        }
+    },
+    {
+        "base": "734 - 111 = ",
+        "one_shot_base": "588 - 157 = 431; 734 - 111 = ",
+        "base_result": 623,
+        "source": "528 - 111 = ",
+        "one_shot_source": "588 - 157 = 431; 528 - 111 = ",
+        "source_result": 417,
+        "result_variants": {
+            "bbb": 623,
+            "bbs": 627,
+            "bsb": 613,
+            "bss": 617,
+            "sbb": 423,
+            "sbs": 427,
+            "ssb": 413,
+            "sss": 417
+        }
+    },
+    {
+        "base": "739 - 333 = ",
+        "one_shot_base": "588 - 157 = 431; 739 - 333 = ",
+        "base_result": 406,
+        "source": "694 - 333 = ",
+        "one_shot_source": "588 - 157 = 431; 694 - 333 = ",
+        "source_result": 361,
+        "result_variants": {
+            "bbb": 406,
+            "bbs": 401,
+            "bsb": 466,
+            "bss": 461,
+            "sbb": 306,
+            "sbs": 301,
+            "ssb": 366,
+            "sss": 361
+        }
+    },
+    {
+        "base": "398 - 231 = ",
+        "one_shot_base": "588 - 157 = 431; 398 - 231 = ",
+        "base_result": 167,
+        "source": "632 - 231 = ",
+        "one_shot_source": "588 - 157 = 431; 632 - 231 = ",
+        "source_result": 401,
+        "result_variants": {
+            "bbb": 167,
+            "bbs": 161,
+            "bsb": 107,
+            "bss": 101,
+            "sbb": 467,
+            "sbs": 461,
+            "ssb": 407,
+            "sss": 401
+        }
+    },
+    {
+        "base": "475 - 100 = ",
+        "one_shot_base": "588 - 157 = 431; 475 - 100 = ",
+        "base_result": 375,
+        "source": "214 - 100 = ",
+        "one_shot_source": "588 - 157 = 431; 214 - 100 = ",
+        "source_result": 114,
+        "result_variants": {
+            "bbb": 375,
+            "bbs": 374,
+            "bsb": 315,
+            "bss": 314,
+            "sbb": 175,
+            "sbs": 174,
+            "ssb": 115,
+            "sss": 114
+        }
+    },
+    {
+        "base": "673 - 343 = ",
+        "one_shot_base": "588 - 157 = 431; 673 - 343 = ",
+        "base_result": 330,
+        "source": "564 - 343 = ",
+        "one_shot_source": "588 - 157 = 431; 564 - 343 = ",
+        "source_result": 221,
+        "result_variants": {
+            "bbb": 330,
+            "bbs": 331,
+            "bsb": 320,
+            "bss": 321,
+            "sbb": 230,
+            "sbs": 231,
+            "ssb": 220,
+            "sss": 221
+        }
+    },
+    {
+        "base": "357 - 256 = ",
+        "one_shot_base": "588 - 157 = 431; 357 - 256 = ",
+        "base_result": 101,
+        "source": "989 - 256 = ",
+        "one_shot_source": "588 - 157 = 431; 989 - 256 = ",
+        "source_result": 733,
+        "result_variants": {
+            "bbb": 101,
+            "bbs": 103,
+            "bsb": 131,
+            "bss": 133,
+            "sbb": 701,
+            "sbs": 703,
+            "ssb": 731,
+            "sss": 733
+        }
+    },
+    {
+        "base": "664 - 303 = ",
+        "one_shot_base": "588 - 157 = 431; 664 - 303 = ",
+        "base_result": 361,
+        "source": "748 - 303 = ",
+        "one_shot_source": "588 - 157 = 431; 748 - 303 = ",
+        "source_result": 445,
+        "result_variants": {
+            "bbb": 361,
+            "bbs": 365,
+            "bsb": 341,
+            "bss": 345,
+            "sbb": 461,
+            "sbs": 465,
+            "ssb": 441,
+            "sss": 445
+        }
+    },
+    {
+        "base": "426 - 313 = ",
+        "one_shot_base": "588 - 157 = 431; 426 - 313 = ",
+        "base_result": 113,
+        "source": "747 - 313 = ",
+        "one_shot_source": "588 - 157 = 431; 747 - 313 = ",
+        "source_result": 434,
+        "result_variants": {
+            "bbb": 113,
+            "bbs": 114,
+            "bsb": 133,
+            "bss": 134,
+            "sbb": 413,
+            "sbs": 414,
+            "ssb": 433,
+            "sss": 434
+        }
+    },
+    {
+        "base": "486 - 260 = ",
+        "one_shot_base": "588 - 157 = 431; 486 - 260 = ",
+        "base_result": 226,
+        "source": "370 - 260 = ",
+        "one_shot_source": "588 - 157 = 431; 370 - 260 = ",
+        "source_result": 110,
+        "result_variants": {
+            "bbb": 226,
+            "bbs": 220,
+            "bsb": 216,
+            "bss": 210,
+            "sbb": 126,
+            "sbs": 120,
+            "ssb": 116,
+            "sss": 110
+        }
+    },
+    {
+        "base": "591 - 281 = ",
+        "one_shot_base": "588 - 157 = 431; 591 - 281 = ",
+        "base_result": 310,
+        "source": "388 - 281 = ",
+        "one_shot_source": "588 - 157 = 431; 388 - 281 = ",
+        "source_result": 107,
+        "result_variants": {
+            "bbb": 310,
+            "bbs": 317,
+            "bsb": 300,
+            "bss": 307,
+            "sbb": 110,
+            "sbs": 117,
+            "ssb": 100,
+            "sss": 107
+        }
+    },
+    {
+        "base": "479 - 322 = ",
+        "one_shot_base": "588 - 157 = 431; 479 - 322 = ",
+        "base_result": 157,
+        "source": "597 - 322 = ",
+        "one_shot_source": "588 - 157 = 431; 597 - 322 = ",
+        "source_result": 275,
+        "result_variants": {
+            "bbb": 157,
+            "bbs": 155,
+            "bsb": 177,
+            "bss": 175,
+            "sbb": 257,
+            "sbs": 255,
+            "ssb": 277,
+            "sss": 275
+        }
+    },
+    {
+        "base": "499 - 366 = ",
+        "one_shot_base": "588 - 157 = 431; 499 - 366 = ",
+        "base_result": 133,
+        "source": "687 - 366 = ",
+        "one_shot_source": "588 - 157 = 431; 687 - 366 = ",
+        "source_result": 321,
+        "result_variants": {
+            "bbb": 133,
+            "bbs": 131,
+            "bsb": 123,
+            "bss": 121,
+            "sbb": 333,
+            "sbs": 331,
+            "ssb": 323,
+            "sss": 321
+        }
+    },
+    {
+        "base": "556 - 112 = ",
+        "one_shot_base": "588 - 157 = 431; 556 - 112 = ",
+        "base_result": 444,
+        "source": "382 - 112 = ",
+        "one_shot_source": "588 - 157 = 431; 382 - 112 = ",
+        "source_result": 270,
+        "result_variants": {
+            "bbb": 444,
+            "bbs": 440,
+            "bsb": 474,
+            "bss": 470,
+            "sbb": 244,
+            "sbs": 240,
+            "ssb": 274,
+            "sss": 270
+        }
+    },
+    {
+        "base": "875 - 365 = ",
+        "one_shot_base": "588 - 157 = 431; 875 - 365 = ",
+        "base_result": 510,
+        "source": "566 - 365 = ",
+        "one_shot_source": "588 - 157 = 431; 566 - 365 = ",
+        "source_result": 201,
+        "result_variants": {
+            "bbb": 510,
+            "bbs": 511,
+            "bsb": 500,
+            "bss": 501,
+            "sbb": 210,
+            "sbs": 211,
+            "ssb": 200,
+            "sss": 201
+        }
+    },
+    {
+        "base": "989 - 127 = ",
+        "one_shot_base": "588 - 157 = 431; 989 - 127 = ",
+        "base_result": 862,
+        "source": "867 - 127 = ",
+        "one_shot_source": "588 - 157 = 431; 867 - 127 = ",
+        "source_result": 740,
+        "result_variants": {
+            "bbb": 862,
+            "bbs": 860,
+            "bsb": 842,
+            "bss": 840,
+            "sbb": 762,
+            "sbs": 760,
+            "ssb": 742,
+            "sss": 740
+        }
+    },
+    {
+        "base": "727 - 516 = ",
+        "one_shot_base": "588 - 157 = 431; 727 - 516 = ",
+        "base_result": 211,
+        "source": "948 - 516 = ",
+        "one_shot_source": "588 - 157 = 431; 948 - 516 = ",
+        "source_result": 432,
+        "result_variants": {
+            "bbb": 211,
+            "bbs": 212,
+            "bsb": 231,
+            "bss": 232,
+            "sbb": 411,
+            "sbs": 412,
+            "ssb": 431,
+            "sss": 432
+        }
+    },
+    {
+        "base": "622 - 121 = ",
+        "one_shot_base": "588 - 157 = 431; 622 - 121 = ",
+        "base_result": 501,
+        "source": "748 - 121 = ",
+        "one_shot_source": "588 - 157 = 431; 748 - 121 = ",
+        "source_result": 627,
+        "result_variants": {
+            "bbb": 501,
+            "bbs": 507,
+            "bsb": 521,
+            "bss": 527,
+            "sbb": 601,
+            "sbs": 607,
+            "ssb": 621,
+            "sss": 627
+        }
+    },
+    {
+        "base": "776 - 106 = ",
+        "one_shot_base": "588 - 157 = 431; 776 - 106 = ",
+        "base_result": 670,
+        "source": "967 - 106 = ",
+        "one_shot_source": "588 - 157 = 431; 967 - 106 = ",
+        "source_result": 861,
+        "result_variants": {
+            "bbb": 670,
+            "bbs": 671,
+            "bsb": 660,
+            "bss": 661,
+            "sbb": 870,
+            "sbs": 871,
+            "ssb": 860,
+            "sss": 861
+        }
+    },
+    {
+        "base": "643 - 403 = ",
+        "one_shot_base": "588 - 157 = 431; 643 - 403 = ",
+        "base_result": 240,
+        "source": "507 - 403 = ",
+        "one_shot_source": "588 - 157 = 431; 507 - 403 = ",
+        "source_result": 104,
+        "result_variants": {
+            "bbb": 240,
+            "bbs": 244,
+            "bsb": 200,
+            "bss": 204,
+            "sbb": 140,
+            "sbs": 144,
+            "ssb": 100,
+            "sss": 104
+        }
+    },
+    {
+        "base": "658 - 312 = ",
+        "one_shot_base": "588 - 157 = 431; 658 - 312 = ",
+        "base_result": 346,
+        "source": "416 - 312 = ",
+        "one_shot_source": "588 - 157 = 431; 416 - 312 = ",
+        "source_result": 104,
+        "result_variants": {
+            "bbb": 346,
+            "bbs": 344,
+            "bsb": 306,
+            "bss": 304,
+            "sbb": 146,
+            "sbs": 144,
+            "ssb": 106,
+            "sss": 104
+        }
+    },
+    {
+        "base": "597 - 110 = ",
+        "one_shot_base": "588 - 157 = 431; 597 - 110 = ",
+        "base_result": 487,
+        "source": "823 - 110 = ",
+        "one_shot_source": "588 - 157 = 431; 823 - 110 = ",
+        "source_result": 713,
+        "result_variants": {
+            "bbb": 487,
+            "bbs": 483,
+            "bsb": 417,
+            "bss": 413,
+            "sbb": 787,
+            "sbs": 783,
+            "ssb": 717,
+            "sss": 713
+        }
+    },
+    {
+        "base": "989 - 258 = ",
+        "one_shot_base": "588 - 157 = 431; 989 - 258 = ",
+        "base_result": 731,
+        "source": "578 - 258 = ",
+        "one_shot_source": "588 - 157 = 431; 578 - 258 = ",
+        "source_result": 320,
+        "result_variants": {
+            "bbb": 731,
+            "bbs": 730,
+            "bsb": 721,
+            "bss": 720,
+            "sbb": 331,
+            "sbs": 330,
+            "ssb": 321,
+            "sss": 320
+        }
+    },
+    {
+        "base": "769 - 215 = ",
+        "one_shot_base": "588 - 157 = 431; 769 - 215 = ",
+        "base_result": 554,
+        "source": "887 - 215 = ",
+        "one_shot_source": "588 - 157 = 431; 887 - 215 = ",
+        "source_result": 672,
+        "result_variants": {
+            "bbb": 554,
+            "bbs": 552,
+            "bsb": 574,
+            "bss": 572,
+            "sbb": 654,
+            "sbs": 652,
+            "ssb": 674,
+            "sss": 672
+        }
+    },
+    {
+        "base": "667 - 317 = ",
+        "one_shot_base": "588 - 157 = 431; 667 - 317 = ",
+        "base_result": 350,
+        "source": "829 - 317 = ",
+        "one_shot_source": "588 - 157 = 431; 829 - 317 = ",
+        "source_result": 512,
+        "result_variants": {
+            "bbb": 350,
+            "bbs": 352,
+            "bsb": 310,
+            "bss": 312,
+            "sbb": 550,
+            "sbs": 552,
+            "ssb": 510,
+            "sss": 512
+        }
+    },
+    {
+        "base": "798 - 133 = ",
+        "one_shot_base": "588 - 157 = 431; 798 - 133 = ",
+        "base_result": 665,
+        "source": "975 - 133 = ",
+        "one_shot_source": "588 - 157 = 431; 975 - 133 = ",
+        "source_result": 842,
+        "result_variants": {
+            "bbb": 665,
+            "bbs": 662,
+            "bsb": 645,
+            "bss": 642,
+            "sbb": 865,
+            "sbs": 862,
+            "ssb": 845,
+            "sss": 842
+        }
+    },
+    {
+        "base": "874 - 114 = ",
+        "one_shot_base": "588 - 157 = 431; 874 - 114 = ",
+        "base_result": 760,
+        "source": "427 - 114 = ",
+        "one_shot_source": "588 - 157 = 431; 427 - 114 = ",
+        "source_result": 313,
+        "result_variants": {
+            "bbb": 760,
+            "bbs": 763,
+            "bsb": 710,
+            "bss": 713,
+            "sbb": 360,
+            "sbs": 363,
+            "ssb": 310,
+            "sss": 313
+        }
+    },
+    {
+        "base": "539 - 132 = ",
+        "one_shot_base": "588 - 157 = 431; 539 - 132 = ",
+        "base_result": 407,
+        "source": "344 - 132 = ",
+        "one_shot_source": "588 - 157 = 431; 344 - 132 = ",
+        "source_result": 212,
+        "result_variants": {
+            "bbb": 407,
+            "bbs": 402,
+            "bsb": 417,
+            "bss": 412,
+            "sbb": 207,
+            "sbs": 202,
+            "ssb": 217,
+            "sss": 212
+        }
+    }
+]
