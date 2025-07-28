@@ -1,0 +1,54 @@
+{
+    "Llama-3-8B": {
+        "addition": {
+            "op1": {
+                "hundredth": 0.8,
+                "tenth": 0.4,
+                "unit": 0.6
+            },
+            "op2": {
+                "hundredth": 0.9,
+                "tenth": 0.5,
+                "unit": 0.6
+            }
+        },
+        "subtraction": {
+            "op1": {
+                "hundredth": 0.8,
+                "tenth": 0.5,
+                "unit": 0.6
+            },
+            "op2": {
+                "hundredth": 0.9,
+                "tenth": 0.5,
+                "unit": 0.6
+            }
+        }
+    },
+    "Olmo-2-7B": {
+        "addition": {
+            "op1": {
+                "hundredth": 0.8,
+                "tenth": 0.8,
+                "unit": 0.4
+            },
+            "op2": {
+                "hundredth": 0.8,
+                "tenth": 0.8,
+                "unit": 0.4
+            }
+        },
+        "subtraction": {
+            "op1": {
+                "hundredth": 0.8,
+                "tenth": 0.8,
+                "unit": 0.5
+            },
+            "op2": {
+                "hundredth": 0.9,
+                "tenth": 0.9,
+                "unit": 0.5
+            }
+        }
+    }
+}
