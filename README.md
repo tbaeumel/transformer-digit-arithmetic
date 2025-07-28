@@ -1,20 +1,9 @@
-# transformer-digit-arithmetic
-Data and Code for 'Transformer Language Models Solve Simple Arithmetic Tasks Digit-by-Digit'
+## transformer-digit-arithmetic
+### Data and Code for ARR Submission 'Modular Arithmetic: Language Models Solve Math Digit by Digit'
 
-Datasets: 
-D_add, op1 
-D_add, op2
-D_sub, op1
-D_sub, op2
+This repository contains an .ipynb script to reproduce the main finding presented in the paper: Through intervention on MLP subspaces that correspond to digit-position-specific circuits only the result digit corresponding to the intervened on digit position is affected.  
 
-Sets of Fisher Neurons: 
-(for the best thresholds only)
-3 models x 3 digit positions x 2 operators
+Details are in the *Digit_Circuit_Intervention.ipynb* script. 
 
-Script: 
-Intervention on subspaces + visualization of prob change + flip rate
-(Note: Olmo2 requires an extension of pyvene to the olmo 2 model which is on  my own github and therefore not anonymous - needs to also be anonymized)
 
-------------------
-Also need code to select digit-position circuit members? 
-Or the code for the single layer interventions?
+In addition, we provide full results for the qualitative analysis of digit-position heuristics presented in Section 5 of the paper. 
