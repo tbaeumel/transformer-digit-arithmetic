@@ -3,6 +3,8 @@
 
 This repository provides a Jupyter notebook to reproduce the main result from the paper: Intervening on MLP subspaces corresponding to specific digit-position circuits selectively alters the output at the targeted digit position.
 
-![Intervention at digit-position-specific arithmetic circuits exclusively alters the output at the targeted digit](DigitWiseCircuit.png)
+![Intervention](DigitWiseCircuit.png)
+
+*Figure 1: Intervention at digit-position-specific arithmetic circuits exclusively alters the output at the targeted digit*
 
 Details are in the *Digit_Circuit_Intervention.ipynb* script. 
