@@ -1,6 +1,12 @@
 ## 'Modular Arithmetic: Language Models Solve Math Digit by Digit'
 ### Data and Code for the paper 'Modular Arithmetic: Language Models Solve Math Digit by Digit'
 
+<br />
+<div align="center">
+  <a href="TODO"><strong>Read our paper »</strong></a>
+</div>     
+<br />
+
 This repository provides a Jupyter notebook to reproduce the main result from the paper: Intervening on MLP subspaces corresponding to specific digit-position circuits selectively alters the output at the targeted digit position.
 
 ![Intervention](DigitWiseCircuit.png)
@@ -8,3 +14,10 @@ This repository provides a Jupyter notebook to reproduce the main result from th
 *Figure 1: Intervention at digit-position-specific arithmetic circuits exclusively alters the output at the targeted digit*
 
 Details are in the *Digit_Circuit_Intervention.ipynb* script. 
+
+
+## Citation
+```bibtex
+@inproceedings{todo
+}
+```
