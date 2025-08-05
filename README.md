@@ -3,7 +3,7 @@
 
 <br />
 <div align="center">
-  <a href="TODO"><strong>Read our paper »</strong></a>
+  <a href="https://arxiv.org/abs/2508.02513"><strong>Read our paper »</strong></a>
 </div>     
 <br />
 
@@ -20,6 +20,13 @@ Details are in the *Digit_Circuit_Intervention.ipynb* script.
 
 ## Citation
 ```bibtex
-@inproceedings{todo
+@misc{baeumel2025modulararithmeticlanguagemodels,
+      title={Modular Arithmetic: Language Models Solve Math Digit by Digit}, 
+      author={Tanja Baeumel and Daniil Gurgurov and Yusser al Ghussin and Josef van Genabith and Simon Ostermann},
+      year={2025},
+      eprint={2508.02513},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2508.02513}, 
 }
 ```
